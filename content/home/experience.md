@@ -48,6 +48,18 @@ experience:
         * Researched on novel ways of malware detection and classification using machine learning algorithms.
         * Presented research findings through poster presentations, publications and academic talks.
 
+- title: African Union Commission Scholar
+    company: African Union Commission's Pan African University, Kenya.
+    company_url: 'https://pau-au.africa/'
+    company_logo: 
+    location: Nairobi, Kenya.
+    date_start: '2017-11-01'
+    date_end: '2019-11-01'
+    description: |2-
+        Research Area(s): Quantitative Risk Analytics, Big Data Analytics, Machine Learning, Financial Modelling
+        * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
+        * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges.
+        * Published two research papers in reputable international journals with two currently undergoing review.
   
 design:
   columns: '2'
