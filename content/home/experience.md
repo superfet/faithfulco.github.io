@@ -48,19 +48,18 @@ experience:
         * Researched on novel ways of malware detection and classification using machine learning algorithms.
         * Presented research findings through poster presentations, publications and academic talks.
 
-experience:
-- title: African Union Commission Scholar
-    company: African Union Commission's Pan African University, Kenya.
-    company_url: 'https://pau-au.africa/'
+- title: Data & Research Scientist (Part time)
+    company: Masterpiece Digital Research Consulting
+    company_url: ''
     company_logo: 
-    location: Nairobi, Kenya.
-    date_start: '2017-11-01'
+    location: Port Harcourt, Nigeria.
+    date_start: '2014-07-01'
     date_end: '2019-11-01'
     description: |2-
-        Research Area(s): Quantitative Risk Analytics, Big Data Analytics, Machine Learning, Financial Modelling
-        * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
-        * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges.
-        * Published two research papers in reputable international journals with two currently undergoing review.
+        Responsibilities/Accomplishment:
+        * Analysed both qualitative and quantitative data using R, Python, SPSS, MS Excel, EViews, etc.
+        * Organised training in data analytics, conducting tests and developing client technical report.
+        * Translated research findings into remarkable insights, decisions and actions.  
   
 design:
   columns: '2'
