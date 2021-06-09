@@ -62,6 +62,7 @@ experience:
         * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
         * Published two research papers in reputable international journals with two currently undergoing review.
 
+
 - title: Data & Research Scientist (Part time)
     company: Masterpiece Digital Research Consulting
     company_url: ''
@@ -103,6 +104,7 @@ experience:
         * Developed effective time management skills delivering lesson plans to a tight schedule.
         * Conducted a free Mathematics tutorial for SSS 3 students preparing for WASSCE.
         * Organized learning resources and materials in line with curriculum objectives. 
+
 
   - title: Professor of Semiconductor Physics
     company: University X
