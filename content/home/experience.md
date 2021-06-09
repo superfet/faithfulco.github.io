@@ -48,6 +48,7 @@ experience:
         * Researched on novel ways of malware detection and classification using machine learning algorithms.
         * Presented research findings through poster presentations, publications and academic talks.
 
+experience:
 - title: African Union Commission Scholar
     company: African Union Commission's Pan African University, Kenya.
     company_url: 'https://pau-au.africa/'
