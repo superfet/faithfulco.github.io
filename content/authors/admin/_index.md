@@ -28,14 +28,14 @@ education:
   courses:
   - course: PhD in Machine Learning and Blockchain Technology
     institution: SFI Center for Research Training in Machine Learning (ML-LABS).
-   # institution: University College Dublin.
+    institution: University College Dublin.
     year: 2025
   - course: MSc in Financial Technology (FinTech) (Distinction)
     institution: University of Stirling, Scotland, United Kingdom.
     year: 2020
   - course: MSc in Financial Mathematics (Research Masters)
     institution: Pan African University, Institute for Basic Sciences, Technology and Innovation (PAUSTI).
-   # institution: Jomo Kenyatta University of Agriculture and Technology (JKUAT).
+    institution: Jomo Kenyatta University of Agriculture and Technology (JKUAT).
     year: 2019
   - course: B.Sc.Ed. in Mathematics & Statistics (First Class Honours)
     institution: Ignatius Ajuru University of Education (IAUE).
@@ -85,7 +85,7 @@ Welcome to my humble webpage.
 
 My name is Faithful Chiagoziem ONWUEGBUCHE, I am _PhD Candidate in Machine Learning and Blockchain Technology_ at the [SFI Center for Research Training in Machine Learning (ML-LABS)](https://www.ml-labs.ie/), University College Dublin. My research interest lies at the intersection and interplay of Machine Learning, Blockchain Technology, Financial Technology (FinTech), Data Science, and Mathematics.
 
-In 2019, I obtained the prestigious [Commonwealth Shared Scholarship](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships/) by the UK Government and completed an _MSc in Financial Technology (FinTech)_ with Distinction at [University of Stirling, UK](https://www.stir.ac.uk/courses/pg-taught/fintech/) supervised by [Dr Deepayan Bhowmik](http://www.cs.stir.ac.uk/~dbh/). My research was on "System Properties Based Malware Detection using Machine Learning". Prior to this position, I was an [African Union Commission Scholar](https://au.int/en/overview) at the [Pan African University, Institute for Basic Sciences, Technology and Innovation (PAUSTI)](https://pau-au.africa/), where I graduated with an _MSc in Financial Mathematics_, under the supervision of [Dr Joseph Kyalo Mung’atu](http://www.jkuat.ac.ke/departments/statistics/joseph-kyalo-mungatu-3/) and [Prof. Muliaro Joseph Wafula](https://codata.org/blog/2018/10/01/muliaro-wafula-candidacy-for-codata-executive-committee-2/). I conducted a research that measured value-at-risk in Nigerian Banks using an innovative approach of incorporating tweet sentiments. I previously graduated with a First Class Honours in _B.Sc.Ed. Mathematics and Statistics_, and was awarded the valedictorian.
+In 2019, I obtained the prestigious [Commonwealth Shared Scholarship](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships/) by the UK Government and completed an _MSc in Financial Technology (FinTech)_ with Distinction at the [University of Stirling, UK](https://www.stir.ac.uk/courses/pg-taught/fintech/) supervised by [Dr Deepayan Bhowmik](http://www.cs.stir.ac.uk/~dbh/). My research was on "System Properties Based Malware Detection using Machine Learning". Prior to this position, I was an [African Union Commission Scholar](https://au.int/en/overview) at the [Pan African University, Institute for Basic Sciences, Technology and Innovation (PAUSTI)](https://pau-au.africa/), where I graduated with an _MSc in Financial Mathematics_, under the supervision of [Dr Joseph Kyalo Mung’atu](http://www.jkuat.ac.ke/departments/statistics/joseph-kyalo-mungatu-3/) and [Prof. Muliaro Joseph Wafula](https://codata.org/blog/2018/10/01/muliaro-wafula-candidacy-for-codata-executive-committee-2/). I conducted a research that measured value-at-risk in Nigerian Banks using an innovative approach of incorporating tweet sentiments. I previously graduated with a First Class Honours in _B.Sc.Ed. Mathematics and Statistics_, and was awarded the valedictorian.
 
 Professionally, I have over five years of relevant work experience gained as a data scientist, research scholar, teacher, leader in several projects and community developer. Through these positions, I has built profound skills in data analysis, Machine Learning, research, leadership, verbal and written communication, time management, team building capability, problem-solving capacity as well as exceptional innovative abilities. 
  
