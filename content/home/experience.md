@@ -25,7 +25,7 @@ experience:
   - title: PhD Researcher in Machine Learning and Blockchain Technology
     company: SFI Center for Research Training in Machine Learning (ML-LABS)
     company_url: ''
-    company_logo: org-gc
+    company_logo: ML-Labs-logo
     location: Dublin
     date_start: '2021-09-01'
     date_end: ''
