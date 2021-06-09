@@ -53,7 +53,7 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=q7jtGs8AAAAJ&hl=en
-- icon: fa-orcid
+- icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-9580-4260
 - icon: github
@@ -62,7 +62,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/faithful-onwuegbuche/
-- icon: fa-youtube
+- icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UC6cPsKVWN1jtzNa0GrDa-nA
 
