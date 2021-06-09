@@ -61,8 +61,6 @@ experience:
         * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
         * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
         * Published two research papers in reputable international journals with two currently undergoing review.
-
-
 - title: Data & Research Scientist (Part time)
     company: Masterpiece Digital Research Consulting
     company_url: ''
@@ -75,8 +73,6 @@ experience:
         * Analysed both qualitative and quantitative data using R, Python, SPSS, MS Excel, EViews, etc.
         * Organised training in data analytics, conducting tests and developing client technical report.
         * Translated research findings into remarkable insights, decisions and actions.        
-        
- 
  - title: Mathematics and Further Mathematics Teacher
     company: Cornerstone International Secondary School
     company_url: ''
@@ -88,8 +84,6 @@ experience:
         Responsibilities/Accomplishment:
         * Used captivating instructional materials and computer aided instruction in teaching and learning situations.
         * Demonstrated excellent communication skills through working with parents/guardians, students and colleagues.
-
-
  - title: Mathematics Teacher
     company: National Youth Service Corps (NYSC) - Abraka Grammar School
     company_url: ''
@@ -104,8 +98,6 @@ experience:
         * Developed effective time management skills delivering lesson plans to a tight schedule.
         * Conducted a free Mathematics tutorial for SSS 3 students preparing for WASSCE.
         * Organized learning resources and materials in line with curriculum objectives. 
-
-
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
@@ -113,8 +105,7 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
+    description: Taught electronic engineering and researched semiconductor physics.  
   - title: CEO
     company: GenCoin
     company_url: ''
