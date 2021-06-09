@@ -25,7 +25,7 @@ experience:
   - title: PhD Researcher in Machine Learning and Blockchain Technology
     company: SFI Center for Research Training in Machine Learning (ML-LABS)
     company_url: 'https://www.ml-labs.ie/'
-    company_logo: mllabss
+    company_logo: ML-Labs-logo
     location: Dublin, Irelannd.
     date_start: '2021-09-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Commonwealth Shared Scholar
     company: Commonwealth Scholarship Commission and the University of Stirling, UK.
     company_url: 'https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/'
-    company_logo: mllabss
+    company_logo: 
     location: Stirling, UK.
     date_start: '2019-09-01'
     date_end: '2020-09-01'
@@ -52,7 +52,7 @@ experience:
   - title: African Union Commission Scholar
     company: African Union Commission's Pan African University, Kenya.
     company_url: 'https://pau-au.africa/'
-    company_logo: mllabss
+    company_logo: 
     location: Nairobi, Kenya.
     date_start: '2017-11-01'
     date_end: '2019-11-01'
@@ -65,7 +65,7 @@ experience:
 - title: Data & Research Scientist (Part time)
     company: Masterpiece Digital Research Consulting
     company_url: ''
-    company_logo: mllabss
+    company_logo: 
     location: Port Harcourt, Nigeria.
     date_start: '2014-07-01'
     date_end: '2019-11-01'
@@ -79,7 +79,7 @@ experience:
  - title: Mathematics and Further Mathematics Teacher
     company: Cornerstone International Secondary School
     company_url: ''
-    company_logo: mllabss
+    company_logo: 
     location: Port Harcourt, Nigeria.
     date_start: '2016-06-01'
     date_end: '2017-03-01'
@@ -92,7 +92,7 @@ experience:
  - title: Mathematics Teacher
     company: National Youth Service Corps (NYSC) - Abraka Grammar School
     company_url: ''
-    company_logo: mllabss
+    company_logo: 
     location: Abraka, Nigeria.
     date_start: '2015-06-01'
     date_end: '2016-06-01'
