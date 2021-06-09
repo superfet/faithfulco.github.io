@@ -39,7 +39,7 @@ experience:
   - title: Commonwealth Shared Scholar
     company: Commonwealth Scholarship Commission and the University of Stirling, UK.
     company_url: 'https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/'
-    company_logo: 
+    company_logo: csclogo
     location: Stirling, UK.
     date_start: '2019-09-01'
     date_end: '2020-09-01'
@@ -51,7 +51,7 @@ experience:
   - title: Afican Union Commission Scholar
     company: African Union Commission, Pan African University.
     company_url: 'https://pau-au.africa/'
-    company_logo: 
+    company_logo: auclogo
     location: Nairobi, Kenya.
     date_start: '2017-11-01'
     date_end: '2019-11-01'
