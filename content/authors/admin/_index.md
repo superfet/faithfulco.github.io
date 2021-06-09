@@ -92,5 +92,3 @@ Professionally, I have over five years of relevant work experience gained as a d
 Besides academic, professional and research excellence, it is in my nature to utilise my position and available resources to impact people’s lives positively. In 2016, I was awarded the Best Performing NYSC President due to my impactful and selfless community service. Recently, I served as the West Scotland Regional Network Coordinator, under the auspices of the Commonwealth Scholarship Commission in the UK, where I helped scholars make the best of their stay in the UK and equipped them as transformative change agents for their respective Commonwealth countries and the world in general.
 
 At my spare time, I love singing, playing guitar (which I am still learning), peotry, jogging/exercising and just explore all that mother nature has to offer.  
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
