@@ -27,16 +27,16 @@ interests:
 education:
   courses:
   - course: PhD in Machine Learning and Blockchain Technology
-    institution: SFI Center for Research Training in Machine Learning (ML-LABS), University College Dublin.
+    institution: SFI Center for Research Training in Machine Learning (ML-LABS), University College Dublin, Ireland.
     year: 2025
   - course: MSc in Financial Technology (FinTech) (Distinction)
     institution: University of Stirling, Scotland, United Kingdom.
     year: 2020
   - course: MSc in Financial Mathematics (Research Masters)
-    institution: Pan African University, Institute for Basic Sciences, Technology and Innovation (PAUSTI).
+    institution: Pan African University, Institute for Basic Sciences, Technology and Innovation (PAUSTI), Kenya.
     year: 2019
   - course: B.Sc.Ed. in Mathematics & Statistics (First Class Honours)
-    institution: Ignatius Ajuru University of Education (IAUE).
+    institution: Ignatius Ajuru University of Education (IAUE), Nigeria.
     year: 2014
 
 # Social/Academic Networking
