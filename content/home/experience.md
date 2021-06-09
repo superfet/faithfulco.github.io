@@ -25,7 +25,7 @@ experience:
   - title: PhD Researcher in Machine Learning and Blockchain Technology
     company: SFI Center for Research Training in Machine Learning (ML-LABS)
     company_url: 'https://www.ml-labs.ie/'
-    company_logo: ML-Labs-logo
+    company_logo: mllabss
     location: Dublin, Irelannd.
     date_start: '2021-09-01'
     date_end: ''
@@ -60,7 +60,7 @@ experience:
         Research Area(s): Quantitative Risk Analytics, Big Data Analytics, Machine Learning, Financial Modelling
         * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
         * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
-        *Published two research papers in reputable international journals with two currently undergoing review.
+        * Published two research papers in reputable international journals with two currently undergoing review.
 
 - title: Data & Research Scientist (Part time)
     company: Masterpiece Digital Research Consulting
