@@ -57,6 +57,19 @@ experience:
         * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
         * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
         * Published two research papers in reputable international journals.
+
+- title: Data & Research Scientist (Part time)
+    company: Masterpiece Digital Research Consulting
+    company_url: ''
+    company_logo: 
+    location: Port Harcourt, Nigeria.
+    date_start: '2014-07-01'
+    date_end: '2017-11-01'
+    description: |2-
+        Responsibilities/Accomplishment:
+        * Analysed both qualitative and quantitative data using R, Python, SPSS, MS Excel, EViews, etc.
+        * Organised training in data analytics, conducting tests and developing client technical report.
+        * Translated research findings into remarkable insights, decisions and actions.
   
 design:
   columns: '2'
