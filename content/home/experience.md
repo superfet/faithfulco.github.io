@@ -58,18 +58,18 @@ experience:
         * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
         * Published two research papers in reputable international journals.
 
-- title: Data & Research Scientist (Part time)
-    company: Masterpiece Digital Research Consulting
-    company_url: ''
-    company_logo: 
-    location: Port Harcourt, Nigeria.
-    date_start: '2014-07-01'
-    date_end: '2017-11-01'
+
+  - title: Commonwealth Shared Scholar
+    company: Commonwealth Scholarship Commission and the University of Stirling, UK.
+    company_url: 'https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/'
+    company_logo: csclogo
+    location: Stirling, UK.
+    date_start: '2019-09-01'
+    date_end: '2020-09-01'
     description: |2-
-        Responsibilities/Accomplishment:
-        * Analysed both qualitative and quantitative data using R, Python, SPSS, MS Excel, EViews, etc.
-        * Organised training in data analytics, conducting tests and developing client technical report.
-        * Translated research findings into remarkable insights, decisions and actions.
+        Research Area(s): Machine Learning, Cyber Security (Malware Detection), FinTech.
+        * Researched on novel ways of malware detection and classification using machine learning algorithms.
+        * Presented research findings through poster presentations, publications and academic talks.
   
 design:
   columns: '2'
