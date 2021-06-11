@@ -85,7 +85,7 @@ experience:
         * Used captivating instructional materials and computer aided instruction in teaching and learning situations.
         * Demonstrated excellent communication skills through working with parents/guardians, students and colleagues.
 
-- title: Mathematics Teacher
+  - title: Mathematics Teacher
     company: National Youth Service Corps (NYSC) - Abraka Grammar School
     company_url: 
     company_logo: 
