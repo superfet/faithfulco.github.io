@@ -72,6 +72,19 @@ experience:
         * Organised training in data analytics, conducting tests and developing client technical report.
         * Translated research findings into remarkable insights, decisions and actions. 
         * Conducting tests and developing client technical report/presentation using captivating descriptive statistics and computer aided instruction.
+
+  - title: Mathematics and Further Mathematics Teacher
+    company: Cornerstone International Secondary School.
+    company_url: 
+    company_logo: 
+    location: Port Harcourt, Nigeria.
+    date_start: '2016-06-01'
+    date_end: '2017-03-01'
+    description: |2-
+        Responsibilities/Accomplishment:
+        * Used captivating instructional materials and computer aided instruction in teaching and learning situations.
+        * Demonstrated excellent communication skills through working with parents/guardians, students and colleagues.
+
   
 design:
   columns: '2'
