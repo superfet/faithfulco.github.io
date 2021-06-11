@@ -19,9 +19,11 @@ bio: My research interest lies at the intersection and interplay of Machine Lear
 # Interests to show in About widget
 interests:
 - Artificial Intelligence (Machine Learning)
-- Financial Technology (FinTech) & Mathematics
-- Data Science
-- Blockchain Technology 
+- Financial Technology (FinTech) 
+- Data Science (DS)
+- Blockchain Technology (BCT)
+- Mathematics Education
+- DS, BCT, AI and FinTech for Social Good 
 
 # Education to show in About widget
 education:
