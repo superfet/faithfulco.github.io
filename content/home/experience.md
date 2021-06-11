@@ -30,11 +30,7 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Researching in the convergence of machine learning and blockchain technology in finance. 
 
   - title: Commonwealth Shared Scholar
     company: Commonwealth Scholarship Commission and the University of Stirling, UK.
@@ -56,9 +52,11 @@ experience:
     date_start: '2017-11-01'
     date_end: '2019-11-01'
     description: |2-
-        Research Area(s): Machine Learning, Cyber Security (Malware Detection), FinTech.
-        * Researched on novel ways of malware detection and classification using machine learning algorithms.
-        * Presented research findings through poster presentations, publications and academic talks.
+        Research Area(s): Quantitative Risk Analytics, Big Data Analytics, Machine Learning, Financial Modelling.
+        * Researched on Value-at-Risk Measurement Incorporating Sentiments from Financial Tweets for Risk Analysis of Nigerian Banks.
+        * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
+        * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
+        * Published two research papers in reputable international journals.
   
 design:
   columns: '2'
