@@ -85,6 +85,20 @@ experience:
         * Used captivating instructional materials and computer aided instruction in teaching and learning situations.
         * Demonstrated excellent communication skills through working with parents/guardians, students and colleagues.
 
+- title: Mathematics Teacher
+    company: National Youth Service Corps (NYSC) - Abraka Grammar School
+    company_url: 
+    company_logo: 
+    location: Abraka, Nigeria.
+    date_start: '2015-06-01'
+    date_end: '2016-06-01'
+    description: |2-
+        Responsibilities/Accomplishment:
+        * Delivered planned lesson with student-centred pedagogy in line with curriculum objectives.
+        * Developed excellent verbal and written communication skills as a teacher, interacting with colleagues, young students and their parents.
+        * Developed effective time management skills delivering lesson plans to a tight schedule.
+        * Conducted a free Mathematics tutorial for SSS 3 students preparing for WASSCE.
+        * Organized learning resources and materials in line with curriculum objectives. 
   
 design:
   columns: '2'
