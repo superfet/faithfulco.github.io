@@ -107,7 +107,7 @@ experience:
         * Developed effective time management skills delivering lesson plans to a tight schedule.
         * Conducted a free Mathematics tutorial for SSS 3 students preparing for WASSCE.
         * Organized learning resources and materials in line with curriculum objectives. 
-        ###### Program Representative/President (Volunteer Leadership Position)
+        ###### President, Charity Community Development Service Unit, NYSC. (Volunteer Leadership Position)
         * Led over 40 fellow compatriots. Employed effective interpersonal skills and team work spirit.
         * Achieved so many medical outreaches, orphanage home visits, sensitizations, donations, among others.
         * Awarded the: Best Performing Unit President NYSC, Abraka, Delta State.
