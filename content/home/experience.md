@@ -100,18 +100,7 @@ experience:
         * Conducted a free Mathematics tutorial for SSS 3 students preparing for WASSCE.
         * Organized learning resources and materials in line with curriculum objectives. 
   
-subtitle: Voluntary Work Experience
-  - title: Commonwealth Shared Scholar
-    company: Commonwealth Scholarship Commission and the University of Stirling, UK.
-    company_url: 'https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/'
-    company_logo: csclogo
-    location: Stirling, UK.
-    date_start: '2019-09-01'
-    date_end: '2020-09-01'
-    description: |2-
-        Research Area(s): Machine Learning, Cyber Security (Malware Detection), FinTech.
-        * Researched on novel ways of malware detection and classification using machine learning algorithms.
-        * Presented research findings through poster presentations, publications and academic talks.
+
 
 
 
