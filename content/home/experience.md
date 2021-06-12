@@ -62,7 +62,10 @@ experience:
         * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
         * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
         * Published two research papers in reputable international journals.
-
+        **Program Representative/President, Department of Mathematics (Volunteer Leadership Position)**
+        * Represented the Mathematics PhD and MSc scholars at the African Union Commission and PAUSTI directorate. 
+        * Created an effective environment for industry and academia collaboration.
+        * Organised student trips and excursions in industry.
 
   - title: Data & Research Scientist (Part time)
     company: Masterpiece Digital Research Consulting.
