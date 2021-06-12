@@ -43,7 +43,7 @@ experience:
         Research Area(s): Machine Learning, Cyber Security (Malware Detection), FinTech.
         * Researched on novel ways of malware detection and classification using machine learning algorithms.
         * Presented research findings through poster presentations, publications and academic talks.
-        ###### West Scotland Regional Network Coordinator (Volunteer Leadership Position)
+        ####### West Scotland Regional Network Coordinator (Volunteer Leadership Position)
         * Led 76 Commonwealth scholars and fellows from different countries across 5 UK universities.
         * Built a strong, dynamic, and friendly network by providing opportunities for interaction between Scholars
         * Organised of events that helps scholars make the best of their in the UK.
