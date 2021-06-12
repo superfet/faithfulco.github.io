@@ -62,7 +62,7 @@ experience:
         * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
         * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
         * Published two research papers in reputable international journals.
-        **Program Representative/President, Department of Mathematics (Volunteer Leadership Position)**
+        ###### Program Representative/President (Volunteer Leadership Position)
         * Represented the Mathematics PhD and MSc scholars at the African Union Commission and PAUSTI directorate. 
         * Created an effective environment for industry and academia collaboration.
         * Organised student trips and excursions in industry.
@@ -107,7 +107,10 @@ experience:
         * Developed effective time management skills delivering lesson plans to a tight schedule.
         * Conducted a free Mathematics tutorial for SSS 3 students preparing for WASSCE.
         * Organized learning resources and materials in line with curriculum objectives. 
-  
+  ###### Program Representative/President (Volunteer Leadership Position)
+        * Led over 40 fellow compatriots. Employed effective interpersonal skills and team work spirit.
+        * Achieved so many medical outreaches, orphanage home visits, sensitizations, donations, among others.
+        * Awarded the: Best Performing Unit President NYSC, Abraka, Delta State.
 
 
 
