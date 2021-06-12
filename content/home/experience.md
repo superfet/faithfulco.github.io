@@ -101,8 +101,6 @@ experience:
         * Organized learning resources and materials in line with curriculum objectives. 
   
 subtitle: Voluntary Work Experience
-
-
   - title: Commonwealth Shared Scholar
     company: Commonwealth Scholarship Commission and the University of Stirling, UK.
     company_url: 'https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/'
