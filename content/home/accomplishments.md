@@ -60,38 +60,6 @@ item:
   title: Introduction to Data Science by Microsoft Corporation.
   url: https://courses.edx.org/certificates/750d41fd678c4f5d9fe519b64435171b
 
-
-- certificate_url: 
-  date_end: ""
-  date_start: "2016-03-01"
-  description: UK HSE Level 1, 2 and 3; Total Quality and Risk Management - Grade(s): Distinction
-  organization: British International Safety Organisation
-  organization_url: 
-  title: Health, Safety and Environment Certification.
-  url: 
-  
-  
-- certificate_url: 
-  date_end: ""
-  date_start: "2016-03-01"
-  description: 
-  organization: British Project Management Academy
-  organization_url: 
-  title: Project Management Graduate and Professional Certification.
-  url: 
-  
-- certificate_url: 
-  date_end: ""
-  date_start: "2014-06-01"
-  description: 
-  organization: Datarmatics Integrated Services
-  organization_url: 
-  title: Digital Statistics and Computer Assisted Instruction.
-  url: 
-  
-  
-  
-  
   
 design:
   columns: '2' 
