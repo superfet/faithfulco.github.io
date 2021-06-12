@@ -49,6 +49,19 @@ experience:
         * Organised of events that helps scholars make the best of their in the UK.
         * Worked with other Regional Coordinators and University Representatives
 
+  - title: West Scotland Regional Network Coordinator (Volunteer Leadership Position)
+    company: Commonwealth Scholarship Commission and the University of Stirling, UK.
+    company_url: 'https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/'
+    company_logo: csclogo
+    location: Stirling, UK.
+    date_start: '2019-11-01'
+    date_end: '2020-09-01'
+    description: |2-
+        * Led 76 Commonwealth scholars and fellows from different countries across 5 UK universities.
+        * Built a strong, dynamic, and friendly network by providing opportunities for interaction between Scholars
+        * Organised of events that helps scholars make the best of their in the UK.
+        * Worked with other Regional Coordinators and University Representatives.
+
 
   - title: Afican Union Commission Scholar
     company: African Union Commission, Pan African University.
