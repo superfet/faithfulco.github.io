@@ -57,7 +57,7 @@ experience:
         * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
         * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
         * Published two research papers in reputable international journals.
-        West Scotland Regional Network Coordinator 
+        ### West Scotland Regional Network Coordinator 
         * Leading 76 Commonwealth scholars and fellows from different countries across 5 UK universities.
         * Building a strong, dynamic, and friendly network by providing opportunities for interaction between Scholars
         * Organising of events that helps scholars make the best of their in the UK.
