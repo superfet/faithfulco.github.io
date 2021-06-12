@@ -23,31 +23,76 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-07-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  title: Social Media Data Analytics Certification by Rutgers University
+  url: www.coursera.org/verify/GA892R5A7TXR
+
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  date_start: "2019-03-01"
+  description: 
   organization: edX
   organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  title: Introduction to Python for Data Science by Microsoft Corporation.
+  url: https://courses.edx.org/certificates/683c85a1dc8342bab55336352dcf290c
 
+- certificate_url: https://www.ibm.com
+  date_end: ""
+  date_start: "2018-06-01"
+  description: 
+  organization: IBM
+  organization_url: https://www.ibm.com
+  title: Data Scientist - Mastery Award for Students by IBM Corporation.
+  url: https://www.youracclaim.com/badges/00cbd826-8722-46fe-8d0f-99b0fcaaf7f7/public_url
+
+- certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2018-03-01"
+  description: This course introduces the concept of data science. 
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Introduction to Data Science by Microsoft Corporation.
+  url: https://courses.edx.org/certificates/750d41fd678c4f5d9fe519b64435171b
+
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2016-03-01"
+  description: UK HSE Level 1, 2 and 3; Total Quality and Risk Management - Grade(s): Distinction
+  organization: British International Safety Organisation
+  organization_url: 
+  title: Health, Safety and Environment Certification.
+  url: 
+  
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2016-03-01"
+  description: 
+  organization: British Project Management Academy
+  organization_url: 
+  title: Project Management Graduate and Professional Certification.
+  url: 
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2014-06-01"
+  description: 
+  organization: Datarmatics Integrated Services
+  organization_url: 
+  title: Digital Statistics and Computer Assisted Instruction.
+  url: 
+  
+  
+  
+  
+  
 design:
   columns: '2' 
 ---
