@@ -43,6 +43,12 @@ experience:
         Research Area(s): Machine Learning, Cyber Security (Malware Detection), FinTech.
         * Researched on novel ways of malware detection and classification using machine learning algorithms.
         * Presented research findings through poster presentations, publications and academic talks.
+        ###### West Scotland Regional Network Coordinator (Volunteer Leadership Position)
+        * Led 76 Commonwealth scholars and fellows from different countries across 5 UK universities.
+        * Built a strong, dynamic, and friendly network by providing opportunities for interaction between Scholars
+        * Organised of events that helps scholars make the best of their in the UK.
+        * Worked with other Regional Coordinators and University Representatives
+
 
   - title: Afican Union Commission Scholar
     company: African Union Commission, Pan African University.
@@ -57,11 +63,7 @@ experience:
         * Delivered presentations in conferences, workshops and meet-ups, as a way of communicating my findings.
         * Championed the establishment of a multi-disciplinary research team developing innovative solutions to African challenges with the help of Mathematics, Artificial Intelligence and Data Science.
         * Published two research papers in reputable international journals.
-        ### West Scotland Regional Network Coordinator 
-        * Leading 76 Commonwealth scholars and fellows from different countries across 5 UK universities.
-        * Building a strong, dynamic, and friendly network by providing opportunities for interaction between Scholars
-        * Organising of events that helps scholars make the best of their in the UK.
-        * Working with other Regional Coordinators and University Representatives
+
 
   - title: Data & Research Scientist (Part time)
     company: Masterpiece Digital Research Consulting.
