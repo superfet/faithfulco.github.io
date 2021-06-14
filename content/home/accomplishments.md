@@ -64,7 +64,7 @@ item:
   date_end: ""
   date_start: "2016-03-01"
   description: UK HSE Level 1, 2 and 3; Total Quality and Risk Management - Grade(s) Distinction. 
-  organization: edX
+  organization: British International Safety Organisation
   organization_url: https://www.edx.org
   title: Health, Safety and Environment Certification.
   url: https://ukhse.org/
