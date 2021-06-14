@@ -36,11 +36,7 @@ office_hours:
 
 appointment_url: ''
 contact_links:
-- icon: envelope
-  icon_pack: fas
-  name: Email
-  link: mailto:faithful.onwuegbuche@gmail.com
-  
+ 
 - icon: twitter
   icon_pack: fab
   name: Twitter
