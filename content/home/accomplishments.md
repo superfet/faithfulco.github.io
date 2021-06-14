@@ -69,7 +69,23 @@ item:
   title: Health, Safety and Environment Certification.
   url: https://ukhse.org/
 
-
+- certificate_url: 
+  date_end: ""
+  date_start: "2016-03-01"
+  description: 
+  organization: British Project Management Academy
+  organization_url: 
+  title: Project Management Graduate and Professional Certification.
+  url: 
+  
+- certificate_url: 
+  date_end: ""
+  date_start: "2014-06-01"
+  description: 
+  organization: Datarmatics Integrated Services
+  organization_url: 
+  title: Digital Statistics and Computer Assisted Instruction.
+  url: 
   
 design:
   columns: '2' 
