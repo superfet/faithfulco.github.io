@@ -22,7 +22,7 @@ twitter: ''
 
 email: faithful.onwuegbuche@gmail.com
 address:
-  street: University College Dublin, Belfield, 
+  street: University College Dublin, Belfield
   city: Dublin 4
   region: Dublin
   postcode: 'D04 V1W8'
@@ -36,7 +36,6 @@ office_hours:
 
 appointment_url: ''
 contact_links:
-social:
 - icon: envelope
   icon_pack: fas
   link: mailto:faithful.onwuegbuche@gmail.com
