@@ -24,6 +24,7 @@ interests:
 - Blockchain Technology (BCT)
 - Mathematics Education
 - DS, BCT, AI and FinTech for Social Good 
+- Algorithmic Trading
 
 # Education to show in About widget
 education:
