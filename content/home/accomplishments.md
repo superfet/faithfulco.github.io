@@ -24,14 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
-- certificate_url: www.coursera.org/verify/GA892R5A7TXR
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/GA892R5A7TXR
   date_end: ""
   date_start: "2019-07-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Social Media Data Analytics Certification by Rutgers University
-  url: www.coursera.org/verify/GA892R5A7TXR
+  url: https://www.coursera.org/account/accomplishments/verify/GA892R5A7TXR
 
 - certificate_url: https://courses.edx.org/certificates/683c85a1dc8342bab55336352dcf290c
   date_end: ""
