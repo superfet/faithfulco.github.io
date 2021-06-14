@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
-- certificate_url: https://www.coursera.org
+- certificate_url: www.coursera.org/verify/GA892R5A7TXR
   date_end: ""
   date_start: "2019-07-01"
   description: ""
@@ -33,7 +33,7 @@ item:
   title: Social Media Data Analytics Certification by Rutgers University
   url: www.coursera.org/verify/GA892R5A7TXR
 
-- certificate_url: https://www.edx.org
+- certificate_url: https://courses.edx.org/certificates/683c85a1dc8342bab55336352dcf290c
   date_end: ""
   date_start: "2019-03-01"
   description: 
@@ -42,7 +42,7 @@ item:
   title: Introduction to Python for Data Science by Microsoft Corporation.
   url: https://courses.edx.org/certificates/683c85a1dc8342bab55336352dcf290c
 
-- certificate_url: https://www.ibm.com
+- certificate_url: https://www.youracclaim.com/badges/00cbd826-8722-46fe-8d0f-99b0fcaaf7f7/public_url
   date_end: ""
   date_start: "2018-06-01"
   description: 
@@ -51,7 +51,7 @@ item:
   title: Data Scientist - Mastery Award for Students by IBM Corporation.
   url: https://www.youracclaim.com/badges/00cbd826-8722-46fe-8d0f-99b0fcaaf7f7/public_url
 
-- certificate_url: https://www.edx.org
+- certificate_url: https://courses.edx.org/certificates/750d41fd678c4f5d9fe519b64435171b
   date_end: ""
   date_start: "2018-03-01"
   description: This course introduces the concept of data science. 
