@@ -38,30 +38,37 @@ appointment_url: ''
 contact_links:
 - icon: envelope
   icon_pack: fas
+  name: Email
   link: mailto:faithful.onwuegbuche@gmail.com
   
 - icon: twitter
   icon_pack: fab
+  name: Twitter
   link: https://twitter.com/Faithful_c_o
   
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
+  name: Google Scholar
   link: https://scholar.google.com/citations?user=q7jtGs8AAAAJ&hl=en
   
 - icon: orcid
   icon_pack: ai
+  name: ORCID
   link: https://orcid.org/0000-0001-9580-4260
   
 - icon: github
   icon_pack: fab
+  name: Github
   link: https://github.com/faithfulco
   
 - icon: linkedin
   icon_pack: fab
+  name: Linkedin
   link: https://www.linkedin.com/in/faithful-onwuegbuche/
   
 - icon: youtube-square
   icon_pack: fab
+  name: Youtube
   link: https://www.youtube.com/channel/UC6cPsKVWN1jtzNa0GrDa-nA
 
 # Site header
