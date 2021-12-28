@@ -44,9 +44,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-  name: Custom Link
-  url: 'https://arxiv.org/abs/2111.14454'
+# links:
+#  name: Custom Link
+#  url: 'https://arxiv.org/abs/2111.14454'
 
 url_pdf: 'https://arxiv.org/pdf/2111.14454.pdf'
 url_code: ''
@@ -59,8 +59,13 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
+
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**smartboy10/iStock.com**]'
   focal_point: ""
   preview_only: false
 
