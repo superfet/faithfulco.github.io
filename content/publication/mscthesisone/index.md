@@ -1,18 +1,14 @@
 ---
-title: "Application of Extreme Value Theory in Predicting Climate Change Induced Extreme Rainfall in Kenya"
+title: "System Properties based Malware Detection using Machine Learning"
 authors:
 - admin
-- Alpha B. Kenyatta
-- Steeven B. Affognon
-- Exavery P. Enock
-- Mary O. Akinade
 
 
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2019-07-05T00:00:00Z"
-doi: "10.5539/ijsp.v8n4p85"
+date: "2020-09-05T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -21,16 +17,23 @@ doi: "10.5539/ijsp.v8n4p85"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Canadian Center of Science and Education, International Journal of Statistics and Probability, 8*(4)"
-publication_short: "International Journal of Statistics and Probability"
+publication: "* Thesis submitted to Division of Computing Science and Mathematics, University of Stirling*"
+publication_short: "University of Stirling"
 
-abstract: Climate change has brought about unprecedented new weather patterns, one of which is changes in extreme rainfall. In Kenya, heavy rains and severe flash floods have left people dead and displaced hundreds from their settlements. In order to build a resilient society and achieve sustainable development, it is paramount that adequate inference about extreme rainfall be made. To this end, this research modelled and predicted extreme rainfall events in Kenya using Extreme Value Theory for rainfall data from 1901-2016. Maximum Likelihood Estimation was used to estimate the model parameters and block maxima approach was used to fit the Generalized Extreme Value Distribution (GEVD) while the Peak Over Threshold method was used to fit the Generalized Pareto Distribution (GPD). The Gumbel distribution was found to be the optimal model from the GEVD while the Exponential distribution gave the optimal model over the threshold value. Furthermore, prediction for the return periods of 10, 20, 50 and 100 years were made using the return level estimates and their corresponding confidence intervals were presented. It was found that increase in return periods leads to a corresponding increase in return levels. However, the GPD gave higher return levels for 10 and 20 years compared to GEVD. While, for higher return periods 50 and 100 years, the GEVD gave higher return levels compared to the GPD. Model diagnostics using probability, density, quantile and return level plots indicated that the models provided were a good fit for the data.
+abstract: Problem: The Financial Technology (FinTech) sector is one of the most targeted sectors for malicious software (malware) attacks. The COVID-19 pandemic has further exacerbated this issue as the United Nations noted an increase in cybercrime by 600%. Traditional malware detection methods have become obsolete due to the rapid development of polymorphic and metamorphic malware that automatically change its shape and produces several signatures for the same malware. 
+
+Objectives: Against this background, it was the objective of this research to detect malware based on system properties using machine learning  algorithms {namely Extreme Gradient Boosting (XGBoost), Multi-layer Perceptron (MLP), Decision Tree and Logistic Regression}, ascertain the best classier, tune the model hyperparameters and determine the most important features in detecting malware based on system properties.
+
+Methodology: The methodology utilized was a modied version of the CRoss-Industry Standard Process for Data Mining (CRISP-DM). The data used was a real-world malware data curated by Microsoft and hosted on Kaggle. The data was summarized, explored and analysed using univariate, bivariate and multivariate analysis. Furthermore, the data was
+cleaned by removing features that had suciently high number of missing values and imbalance class. Missing values below the threshold was replaced and 9 new features were created. 10% of the entire data was randomly selected, encoded using label and frequency encoding and modelled. A train test split of 70:30 was used alongside Gridsearch with 5-fold cross validation to search for the optimal hyperparameters.
+
+Achievements: The results showed that machine learning algorithms were effective in detecting malware based on system properties. Results after hyperparameter tuning showed that XGBoost performed better based on AUC-ROC value, followed by MLP, decision tree and with logistic regression being the least. In addition, the most improved model after tuning based on AUC-ROC difference was decision tree, next to XGBoost, logistic regression and MLP. Furthermore, the most important feature was “SmartScreen" using gain, “AvProductsInstalled" using over, and “AvSigVersion" using cover.
 
 # Summary. An optional shortened abstract.
-summary: block maxima, extreme rainfall, extreme value theory, generalized extreme value distribution, generalized Pareto distribution, maximum likelihood estimation, peak over threshold, sustainable development.
+summary: machine learning, malware analysis, malware detection, cyber security, FinTech
 
 tags:
 - Source Themes
@@ -39,7 +42,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ccsenet.org/journal/index.php/ijsp/article/download/0/0/40020/41134
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -51,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Xinhua/Rex/Shutterstock**](https://www.theguardian.com/news/2020/may/13/kenya-bears-the-brunt-as-floods-devastate-central-africa)'
+  caption: 'Image credit: [**My Thesis**]'
   focal_point: ""
   preview_only: false
 
