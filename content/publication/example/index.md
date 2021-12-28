@@ -18,7 +18,8 @@ authors:
 # - "Equal contribution"
 
 date: "2021-12-04T00:00:00Z"
-doi: "https://arxiv.org/abs/2111.14454"
+doi: ""
+url: "https://arxiv.org/abs/2111.14454"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
