@@ -46,7 +46,7 @@ experience:
         ###### West Scotland Regional Network Coordinator (Volunteer Leadership Position)
         * Led 76 Commonwealth scholars and fellows from different countries across 5 UK universities.
         * Built a strong, dynamic, and friendly network by providing opportunities for interaction between Scholars
-        * Organised of events that helps scholars make the best of their in the UK.
+        * Organised events that helped scholars make the best of their stay in the UK.
         * Worked with other Regional Coordinators and University Representatives
 
   - title: Afican Union Commission Scholar
