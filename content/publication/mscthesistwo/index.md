@@ -1,5 +1,5 @@
 ---
-title: "System Properties based Malware Detection using Machine Learning"
+title: "Value-at-Risk Measurement Incorporating Sentiments from Financial Tweets for Risk Analysis of Nigerian Banks"
 authors:
 - admin
 
