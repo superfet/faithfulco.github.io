@@ -30,7 +30,7 @@ summary: machine learning, malware analysis, malware detection, cyber security, 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
