@@ -30,7 +30,7 @@ summary: value-at-risk measurement, machine learning, support vector machine, se
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
