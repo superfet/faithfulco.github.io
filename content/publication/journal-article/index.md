@@ -34,7 +34,7 @@ summary: block maxima, extreme rainfall, extreme value theory, generalized extre
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
