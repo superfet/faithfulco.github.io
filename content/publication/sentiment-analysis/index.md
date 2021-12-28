@@ -1,5 +1,6 @@
 ---
-title: "Application of Extreme Value Theory in Predicting Climate Change Induced Extreme Rainfall in Kenya"
+title: "Support Vector Machine for Sentiment Analysis of Nigerian Banks Financial Tweets"
+
 authors:
 - admin
 - Joseph Muliaro Wafula
