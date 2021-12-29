@@ -4,7 +4,7 @@ title: Education, Enterprise and Employment - Things I Wished I Knew before Grad
 event: Life After University
 event_url: 
 
-location: Department of Mathematics and Staticstics, Ignatius Ajuru University of Education
+location: Department of Mathematics and Staticstics, Ignatius Ajuru University of Education, Port Harcourt, Nigeria.
 address:
   street: Rumuolumeni
   city: Port Harcourt
