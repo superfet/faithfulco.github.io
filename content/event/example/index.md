@@ -24,8 +24,11 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: ["admin"]
+tags: ["Climate Change", "Extreme Value Theory"]
+categories:
+- Talks
+- Climate Change
 
 # Is this a featured talk? (true/false)
 featured: false
