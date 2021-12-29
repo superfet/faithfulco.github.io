@@ -24,8 +24,20 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors:
+- admin
+
+tags:
+- Blockchain
+- FinTech
+- Machine Learning
+- Cyber Security
+- Financial Inclusion
+
+categories:
+- Talks
+- Blockchain
+- FinTech
 
 # Is this a featured talk? (true/false)
 featured: false
