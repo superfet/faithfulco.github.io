@@ -4,7 +4,7 @@ title: Application of Support Vector Machine for Sentiment Analysis of Nigerian 
 event: Deep Learning Indaba
 event_url: https://deeplearningindaba.com/2019/
 
-location: Kenyatta University
+location: Kenyatta University, Nairobi, Kenya.
 address:
   street: 
   city: Nairobi
