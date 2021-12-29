@@ -13,11 +13,11 @@ address:
   country: UK
 
 summary: A video mini-lesson (TEDx style talk) for PiXL through AccessEd delivered at The National STEM Learning Center, University of York, UK. Aimed at introducing teenagers to the concept of blockchain technology. This talk was shared with over 1,400 schools across the United Kingdom.
-abstract: "Climate change has brought about unprecedented new weather patterns, one of which is changes in extreme rainfall. In Kenya, heavy rains and severe flash floods have left people dead and displaced hundreds from their settlements. In order to build a resilient society and achieve sustainable development, it is paramount that adequate inference about extreme rainfall be made. To this end, this research modelled and predicted extreme rainfall events in Kenya using Extreme Value Theory for rainfall data from 1901-2016."
+abstract: "This talk was to introduce teenagers to the concept of Blockchain #Technology and its Applications. It was shared with over 1,400 schools across the United Kingdom. I was able to explain the concept of blockchain in an intuitive and interesting way for the teenagers to understand. The blockchain technology is revolutionizing every sector and it is pertinent for us to prepare the younger generation for the future of innovation and work in general. Special thanks to the Commonwealth Scholarship in the United Kingdom for the recommendation to deliver this talk."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-26T13:00:00Z"
+date: "2020-01-10T13:00:00Z"
 # date_end: "2019-06-20T15:00:00Z"
 all_day: false
 
