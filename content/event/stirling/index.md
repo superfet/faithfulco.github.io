@@ -1,25 +1,25 @@
 ---
-title: Application of Extreme Value Theory in Predicting Climate Change Induced Extreme Rainfall in Kenya. 
+title: Blockchain Technologies for Financial Inclusion in Nigeria
 
-event: 3rd Kenyatta University International Mathematics Conference
+event: Blockchain Technologies Seminar
 event_url: 
 
-location: Kenyatta University
+location: Department of Computing Science and Mathematics, University of Stirling
 address:
   street: 
-  city: Nairobi
+  city: Stirling
   region: 
-  postcode: 'P.O. Box 43844-00100'
-  country: Kenya
+  postcode: 
+  country: UK
 
-summary: This talk explored how extreme value theory can be effective in predicting climate change induced extreme rainfall.
-abstract: "Climate change has brought about unprecedented new weather patterns, one of which is changes in extreme rainfall. In Kenya, heavy rains and severe flash floods have left people dead and displaced hundreds from their settlements. In order to build a resilient society and achieve sustainable development, it is paramount that adequate inference about extreme rainfall be made. To this end, this research modelled and predicted extreme rainfall events in Kenya using Extreme Value Theory for rainfall data from 1901-2016."
+summary: This talk explored the utilization of blockchain technologies in achieving financial inclusion in Nigeria.
+abstract: "Financial inclusion is the ability of individuals or companies to gain access to financial services at affordable and sustainable costs. It ensures that the financial products and services such as credit, insurance, payments, transactions and savings meets the needs of both businesses and individuals. The situation of the over two billion unbanked individuals in developing countries is one that calls for urgent and immediate sustainable solution. In Nigeria, according to the Lagos Business School LBS (2018) report, 136 out of the total 198 million Nigerians are financially excluded, that is about 68.7% of Nigerians. Blockchain technologies, through the utilization of an immutable ledger has the promise of being able to provide a trustworthy and more efficient system. The talk discussed the pertinent roles and applications of blockchain technologies for financial inclusion in Nigeria."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-17T13:00:00Z"
-date_end: "2019-06-20T15:00:00Z"
-all_day: true
+date: "2019-11-26T13:00:00Z"
+# date_end: "2019-06-20T15:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: '
+  caption: 
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: 
+  url: https://twitter.com/Faithful_c_o
 url_code: ""
 url_pdf: ""
 url_slides: ""
