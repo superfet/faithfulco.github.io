@@ -54,6 +54,8 @@ categories:
 - Mentorship
 - Teaching
 - Talks
+- Blockchain
+- FinTech
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
