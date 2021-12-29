@@ -7,7 +7,7 @@ event_url:
 location: Department of Computing Science and Mathematics, University of Stirling
 address:
   street: 
-  city: Stirling
+  city: Stirling, United Kingdom
   region: 
   postcode: 
   country: UK
