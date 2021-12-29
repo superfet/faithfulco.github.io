@@ -2,7 +2,7 @@
 title: Introduction to Blockchain Technologies and its Application.  
 
 event: PiXL Stretch Project
-event_url: https://www.youtube.com/watch?v=ACnldeiSMs4&t=585s
+event_url: https://www.pixl.org.uk/about-us
 
 location: The National STEM Learning Center, University of York, UK.
 address:
