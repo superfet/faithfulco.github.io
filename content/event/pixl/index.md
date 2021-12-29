@@ -13,7 +13,7 @@ address:
   country: UK
 
 summary: A video mini-lesson (TEDx style talk) for PiXL through AccessEd delivered at The National STEM Learning Center, University of York, UK. Aimed at introducing teenagers to the concept of blockchain technology. This talk was shared with over 1,400 schools across the United Kingdom.
-abstract: "This talk was to introduce teenagers to the concept of Blockchain #Technology and its Applications. It was shared with over 1,400 schools across the United Kingdom. I was able to explain the concept of blockchain in an intuitive and interesting way for the teenagers to understand. The blockchain technology is revolutionizing every sector and it is pertinent for us to prepare the younger generation for the future of innovation and work in general. Special thanks to the Commonwealth Scholarship in the United Kingdom for the recommendation to deliver this talk."
+abstract: "This talk was to introduce teenagers to the concept of Blockchain Technology and its Applications. It was shared with over 1,400 schools across the United Kingdom. I was able to explain the concept of blockchain in an intuitive and interesting way for the teenagers to understand. The blockchain technology is revolutionizing every sector and it is pertinent for us to prepare the younger generation for the future of innovation and work in general. Special thanks to the Commonwealth Scholarship in the United Kingdom for the recommendation to deliver this talk."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
