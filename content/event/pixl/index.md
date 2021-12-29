@@ -51,7 +51,7 @@ url_slides: ""
 url_video: ""
 
 categories:
-  - blockchain
+  - Blockchain
   - FinTech
   - Mentorship
 
