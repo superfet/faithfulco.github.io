@@ -4,7 +4,7 @@ title: Blockchain Technologies for Financial Inclusion in Nigeria
 event: Blockchain Technologies Seminar
 event_url: 
 
-location: Department of Computing Science and Mathematics, University of Stirling
+location: Department of Computing Science and Mathematics, University of Stirling, United Kingdom.
 address:
   street: 
   city: Stirling, United Kingdom
