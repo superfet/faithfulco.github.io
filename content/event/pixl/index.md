@@ -51,9 +51,9 @@ url_slides: ""
 url_video: ""
 
 categories:
-  - Blockchain
-  - FinTech
-  - Mentorship
+- Mentorship
+- Teaching
+- Talks
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
