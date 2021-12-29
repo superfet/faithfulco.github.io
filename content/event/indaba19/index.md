@@ -1,8 +1,8 @@
 ---
-title: Application of Extreme Value Theory in Predicting Climate Change Induced Extreme Rainfall in Kenya. 
+title: Application of Support Vector Machine for Sentiment Analysis of Nigerian Banks Financial Tweets
 
-event: 3rd Kenyatta University International Mathematics Conference
-event_url: 
+event: Deep Learning Indaba
+event_url: https://deeplearningindaba.com/2019/
 
 location: Kenyatta University
 address:
@@ -12,13 +12,13 @@ address:
   postcode: 'P.O. Box 43844-00100'
   country: Kenya
 
-summary: This talk explored how extreme value theory can be effective in predicting climate change induced extreme rainfall.
-abstract: "Climate change has brought about unprecedented new weather patterns, one of which is changes in extreme rainfall. In Kenya, heavy rains and severe flash floods have left people dead and displaced hundreds from their settlements. In order to build a resilient society and achieve sustainable development, it is paramount that adequate inference about extreme rainfall be made. To this end, this research modelled and predicted extreme rainfall events in Kenya using Extreme Value Theory for rainfall data from 1901-2016."
+summary: A poster presentation that highlights the applicability of Support Vector Machine in the sentiment analysis of Nigerian banks financial tweets.
+abstract: "The rise of social media paves way for unprecedented benefits or risks to several organisations depending on how they adapt to its changes. This rise comes with a great challenge of gaining insights from these big data for effective and efficient decision making that can improve quality, profitability, productivity, competitiveness and customer satisfaction. Sentiment analysis is the field that is concerned with the classification and analysis of user generated text under defined polarities. Despite the upsurge of research in sentiment analysis in recent years, there is a dearth in literature on sentiment analysis applied to banks social media data and mostly on African datasets. Against this background, this study applied machine learning technique (support vector machine) for sentiment analysis of Nigerian banks twitter data within a 2-year period, from 1st January 2017 to 31st December 2018. After crawling and preprocessing of the data, LibSVM algorithm in WEKA was used to build the sentiment classification model based on the training data. The performance of this model was evaluated on a pre-labelled test dataset generated from the five banks. The results show that the accuracy of the classifier was 71.8367%. The precision for both the positive and negative classes was above 0.7, the recall for the negative class was 0.696 and that of the positive class was 0.741 which shows the prediction did better than chance in addition to other measures. Applying the model in predicting the sentiments of the five Nigerian banks twitter data reveals that the number of positive tweets within this period was slightly greater than the number of negative tweets. The scatter plots for the sentiments series indicated that, majority of the data falls between 0 and 100 sentiments per day, with few outliers above this range."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-17T13:00:00Z"
-date_end: "2019-06-20T15:00:00Z"
+date: "2019-08-25T13:00:00Z"
+date_end: "2019-08-31T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: '
+  caption: 
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: 
+  url: https://twitter.com/Faithful_c_o
 url_code: ""
 url_pdf: ""
 url_slides: ""
