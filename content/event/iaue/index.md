@@ -1,24 +1,24 @@
 ---
-title: Application of Extreme Value Theory in Predicting Climate Change Induced Extreme Rainfall in Kenya. 
+title: Education, Enterprise and Employment - Things I Wished I Knew about them before Graduating from University. 
 
-event: 3rd Kenyatta University International Mathematics Conference
+event: Life After University
 event_url: 
 
-location: Kenyatta University
+location: Department of Mathematics and Staticstics, Ignatius Ajuru University of Education
 address:
-  street: 
-  city: Nairobi
-  region: 
-  postcode: 'P.O. Box 43844-00100'
-  country: Kenya
+  street: Rumuolumeni
+  city: Port Harcourt
+  region: Rivers State
+  postcode: 'P.M.B. 5047'
+  country: Nigeria
 
-summary: This talk explored how extreme value theory can be effective in predicting climate change induced extreme rainfall.
-abstract: "Climate change has brought about unprecedented new weather patterns, one of which is changes in extreme rainfall. In Kenya, heavy rains and severe flash floods have left people dead and displaced hundreds from their settlements. In order to build a resilient society and achieve sustainable development, it is paramount that adequate inference about extreme rainfall be made. To this end, this research modelled and predicted extreme rainfall events in Kenya using Extreme Value Theory for rainfall data from 1901-2016."
+summary: I was invited by my alma mater to deliver this talk as a way of preparing current students for the challenges and opportunities in the complex phase of life after university.
+abstract: "This talk was centered on life after university and the opportunities that abound for a Mathematics/Statistics graduate in the areas of education, enterprise and employment. Also, I spoke about the things I wished I knew about scholarships before graduating from university. The aim of this talk was to help current students navigate the complex phase of life after studies and to ensure that they are adequately prepared for the challenges and opportunities that layed ahead. The feedback after the talk was awesome."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-17T13:00:00Z"
-date_end: "2019-06-20T15:00:00Z"
+date: "2019-07-24T13:00:00Z"
+# date_end: "2019-06-20T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: '
+  caption: 
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: 
+  url: https://twitter.com/Faithful_c_o
 url_code: ""
 url_pdf: ""
 url_slides: ""
