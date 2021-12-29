@@ -4,7 +4,7 @@ title: Application of Extreme Value Theory in Predicting Climate Change Induced 
 event: 3rd Kenyatta University International Mathematics Conference
 event_url: 
 
-location: Kenyatta University, Nairbi, Kenya.
+location: Kenyatta University, Nairobi, Kenya.
 address:
   street: 
   city: Nairobi
