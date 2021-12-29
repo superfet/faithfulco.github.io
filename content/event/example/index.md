@@ -38,7 +38,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: 
+  url: https://twitter.com/Faithful_c_o
 url_code: ""
 url_pdf: ""
 url_slides: ""
