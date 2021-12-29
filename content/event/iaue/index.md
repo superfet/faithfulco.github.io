@@ -1,5 +1,5 @@
 ---
-title: Education, Enterprise and Employment - Things I Wished I Knew about them before Graduating from University. 
+title: Education, Enterprise and Employment - Things I Wished I Knew before Graduating from University. 
 
 event: Life After University
 event_url: 
