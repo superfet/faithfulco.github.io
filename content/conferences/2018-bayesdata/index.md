@@ -1,5 +1,5 @@
 ---
-title: Bayesian Data Analysis: Theory and Practice by Prof. Dr. Emmanuel Lesaffre 
+title: Bayesian Data Analysis- Theory and Practice by Prof. Dr. Emmanuel Lesaffre 
 
 
 event: Workshop on Bayesian Data Analytics. 
@@ -25,8 +25,8 @@ authors:
 - admin
 
 tags:
-- Financial Mathematics
-- Mathematics
+- Data Analysis
+- Biostatistics
 
 categories:
 - Workshop
