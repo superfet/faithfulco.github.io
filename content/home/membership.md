@@ -31,7 +31,7 @@ item:
   description: ""
   organization: Blockchain Ireland
   organization_url: https://www.blockchainireland.ie/
-  title: Enterprise Working Group Member 
+  title: Startup & Enterprise Working Group Member 
   url: https://www.blockchainireland.ie/
   
 
