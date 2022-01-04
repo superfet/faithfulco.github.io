@@ -1,46 +1,42 @@
 ---
-title: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
+title: AIMS BIODIVERSITY INFORMATICS SUMMER SCHOOL - Creating, Accessing and Analyzing Biodiversity Data
 
-event: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
-event_url: https://www.iauoe.edu.ng/Home/index
 
-location: Ignatius Ajuru University of Education (IAUE)
+event: BIODIVERSITY INFORMATICS- Creating, Accessing and Analyzing biodiversity data                          
+event_url: https://research.nexteinstein.org/event/biodiversity-summer-school/
+
+location: African Institute for Mathematical Sciences. 
 address:
-  street: Rumuolumeni
-  city: Port Harcourt, Nigeria.
-  region: CA
-  postcode: 'P.M.B. 5047'
-  country: Nigeria
+  city: Nairobi
+  country: Kenya
 
-summary: This international conference was focused on science as a tool for sustainable development. 
-abstract: "This was my first major international conference and I attended as an undergraduate student." 
+summary: Online Summer School on Biodiversity Informatics, focused on Creating, Accessing and Analyzing biodiversity data. Organised by the African Institute for Mathematical Sciences (AIMS). On 10 – 21 May, 2021.
+abstract: "," 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-03-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
+date: "2021-05-10T13:00:00Z"
+date_end: "2021-05-21T15:00:00Z"
 all_day: true
 
-# Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+
 
 authors:
 - admin
 
 tags:
-- Science
+- Biostatistics
 - Mathematics
-- Sustainable Development
+- Data Analysis
 
 categories:
-- Conference
-
+- Workshop
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**The Nation**]'
+  caption: '[**Summer School Certificate**]'
   focal_point: Right
 
 links:
@@ -69,4 +65,4 @@ url_video: ""
 # - example
 ---
 
-This was my first major international conference and I attended as an undergraduate student. It was held at Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+Online Summer School on Biodiversity Informatics, focused on Creating, Accessing and Analyzing biodiversity data. Organised by the African Institute for Mathematical Sciences (AIMS). On 10 – 21 May, 2021.
