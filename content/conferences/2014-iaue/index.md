@@ -69,11 +69,4 @@ url_video: ""
 # - example
 ---
 
-This was my first major international conference and I attended as an undergraduate student.
-location: Ignatius Ajuru University of Education (IAUE)
-address:
-  street: Rumuolumeni
-  city: Port Harcourt, Nigeria.
-  region: CA
-  postcode: 'P.M.B. 5047'
-  country: Nigeria
+This was my first major international conference and I attended as an undergraduate student. It was held at Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
