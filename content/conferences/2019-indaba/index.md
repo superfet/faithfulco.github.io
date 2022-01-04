@@ -1,46 +1,42 @@
 ---
-title: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
+title: Artificial Intelligence Training by Deep Learning Indaba
 
-event: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
-event_url: https://www.iauoe.edu.ng/Home/index
 
-location: Ignatius Ajuru University of Education (IAUE)
+event: Deep Learning Indaba 2019                            
+event_url: https://deeplearningindaba.com/2019/indaba/programme/
+
+location: Kenyatta University. 
 address:
-  street: Rumuolumeni
-  city: Port Harcourt, Nigeria.
-  region: CA
-  postcode: 'P.M.B. 5047'
-  country: Nigeria
+  city: Nairobi
+  country: Kenya
 
-summary: This international conference was focused on science as a tool for sustainable development. 
-abstract: "This was my first major international conference and I attended as an undergraduate student." 
+summary: Training on Artificial Intelligence by Deep Learning Indaba hosted at Kenyatta University. On 25-30 August 2019.
+abstract: "," 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-03-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
-all_day: true
+date: "2019-08-25T13:00:00Z"
+date_end: "2019-08-30T15:00:00Z"
+all_day: false
 
-# Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+
 
 authors:
 - admin
 
 tags:
-- Science
-- Mathematics
-- Sustainable Development
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
 
 categories:
-- Conference
-
+- Workshop
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**The Nation**]'
+  caption: 
   focal_point: Right
 
 links:
@@ -69,4 +65,4 @@ url_video: ""
 # - example
 ---
 
-This was my first major international conference and I attended as an undergraduate student. It was held at Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+Training on Artificial Intelligence by Deep Learning Indaba hosted at Kenyatta University. On 25-30 August 2019. The Deep Learning Indaba is an organisation whose mission is to Strengthen Machine Learning and Artificial Intelligence in Africa. We work towards the goal of Africans being not only observers and receivers of the ongoing advances in AI, but active shapers and owners of these technological advances.
