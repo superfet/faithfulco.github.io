@@ -25,14 +25,14 @@ date_format: Jan 2006
 item:
 
 
-- certificate_url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
-  date_end: ""
-  date_start: "2021-04-28"
-  description: ""
-  organization: award
-  organization_url: https://www.coursera.org
-  title: first class
-  url: https://coursera.org/share/785f68a6d5217fa2b8c65f92c52a77fb
+- certificate_url: 
+  date_end: "2014-09"
+  date_start: "2010-09"
+  description: "Throughout my studies from 2010-2014, for outstanding academic performance and character."
+  organization: Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+  organization_url: 
+  title: Consistent Mention/Recognition, Dean's Rolls of Honour IAUE
+  url: 
   
   
 
