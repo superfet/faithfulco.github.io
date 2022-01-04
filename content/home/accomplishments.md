@@ -78,7 +78,7 @@ item:
   organization: British International Safety Organisation
   organization_url: https://www.edx.org
   title: Health, Safety and Environment Certification.
-  url: 
+  url: https://drive.google.com/file/d/1piwnQQryLRiY_BSG-WYZ2mvA8_2miM1Q/view?usp=sharing
 
 - certificate_url: https://drive.google.com/file/d/1UFc742hxLEtrq5SrlauRFg82Sjj98giY/view?usp=sharing
   date_end: ""
@@ -87,7 +87,7 @@ item:
   organization: British Project Management Academy
   organization_url: 
   title: Project Management Graduate and Professional Certification.
-  url: 
+  url: https://drive.google.com/file/d/1UFc742hxLEtrq5SrlauRFg82Sjj98giY/view?usp=sharing
   
 - certificate_url: https://drive.google.com/file/d/1OkN4rfuMs-ePhxfdlzSX47C4fQWRP5Kk/view?usp=sharing
   date_end: ""
@@ -96,7 +96,7 @@ item:
   organization: Datarmatics Integrated Services
   organization_url: 
   title: Digital Statistics and Computer Assisted Instruction.
-  url: 
+  url: https://drive.google.com/file/d/1OkN4rfuMs-ePhxfdlzSX47C4fQWRP5Kk/view?usp=sharing
   
 design:
   columns: '2' 
