@@ -1,18 +1,16 @@
 ---
-title: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
+title: One month Workshop on Financial Mathematics by Prof Abass Sagna
 
-event: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
-event_url: https://www.iauoe.edu.ng/Home/index
 
-location: Ignatius Ajuru University of Education (IAUE)
+event: Special Lecture Series, Department of Mathematics, University of Ibadan, Nigeria. 
+event_url: https://sci.ui.edu.ng/mathsstaff
+
+location: Department of Mathematics, University of Ibadan, Nigeria. 
 address:
-  street: Rumuolumeni
-  city: Port Harcourt, Nigeria.
-  region: CA
-  postcode: 'P.M.B. 5047'
+  city: Ibadan.
   country: Nigeria
 
-summary: This international conference was focused on science as a tool for sustainable development. 
+summary: Special Lecture Series held at the Department of Mathematics, University of Ibadan, Nigeria. Delivered by Prof Abass Sagna, Associate Prof., Laboratory of Mathematics and Modeling of Evry, France.
 abstract: "This was my first major international conference and I attended as an undergraduate student." 
 
 # Talk start and end times.
@@ -28,19 +26,18 @@ authors:
 - admin
 
 tags:
-- Science
+- Financial Mathematics
 - Mathematics
-- Sustainable Development
 
 categories:
-- Conference
+- Workshop
 
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**The Nation**]'
+  caption: 
   focal_point: Right
 
 links:
