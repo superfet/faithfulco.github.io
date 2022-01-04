@@ -11,11 +11,11 @@ address:
   country: Nigeria
 
 summary: Special Lecture Series held at the Department of Mathematics, University of Ibadan, Nigeria. Delivered by Prof Abass Sagna, Associate Prof., Laboratory of Mathematics and Modeling of Evry, France.
-abstract: "This was my first major international conference and I attended as an undergraduate student." 
+abstract: "," 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-03-01T13:00:00Z"
+date: "2017-04-01T13:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -66,4 +66,4 @@ url_video: ""
 # - example
 ---
 
-This was my first major international conference and I attended as an undergraduate student. It was held at Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+Special Lecture Series held at the Department of Mathematics, University of Ibadan, Nigeria. Delivered by Prof Abass Sagna, Associate Prof., Laboratory of Mathematics and Modeling of Evry, France.
