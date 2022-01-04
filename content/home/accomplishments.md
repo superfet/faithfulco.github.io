@@ -71,16 +71,16 @@ item:
   title: Introduction to Data Science by Microsoft Corporation.
   url: https://courses.edx.org/certificates/750d41fd678c4f5d9fe519b64435171b
 
-- certificate_url: https://ukhse.org/
+- certificate_url: https://drive.google.com/file/d/1piwnQQryLRiY_BSG-WYZ2mvA8_2miM1Q/view?usp=sharing
   date_end: ""
   date_start: "2016-03-01"
   description: UK HSE Level 1, 2 and 3; Total Quality and Risk Management - Grade(s) Distinction. 
   organization: British International Safety Organisation
   organization_url: https://www.edx.org
   title: Health, Safety and Environment Certification.
-  url: https://ukhse.org/
+  url: 
 
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1UFc742hxLEtrq5SrlauRFg82Sjj98giY/view?usp=sharing
   date_end: ""
   date_start: "2016-03-01"
   description: 
@@ -89,7 +89,7 @@ item:
   title: Project Management Graduate and Professional Certification.
   url: 
   
-- certificate_url: 
+- certificate_url: https://drive.google.com/file/d/1OkN4rfuMs-ePhxfdlzSX47C4fQWRP5Kk/view?usp=sharing
   date_end: ""
   date_start: "2014-06-01"
   description: 
