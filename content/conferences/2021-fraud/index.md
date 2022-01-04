@@ -1,46 +1,43 @@
 ---
-title: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
+title: Fraud in Financial Services
 
-event: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
-event_url: https://www.iauoe.edu.ng/Home/index
 
-location: Ignatius Ajuru University of Education (IAUE)
+event: Transform Finance Conference                           
+event_url: https://transformfinance.media/events/virtual-fraud-in-financial-services-north-america/
+
+location: Department of Mathematics & Actuarial Science, Kenyatta University. 
 address:
-  street: Rumuolumeni
-  city: Port Harcourt, Nigeria.
-  region: CA
-  postcode: 'P.M.B. 5047'
-  country: Nigeria
+  city: Nairobi
+  country: Kenya
 
-summary: This international conference was focused on science as a tool for sustainable development. 
-abstract: "This was my first major international conference and I attended as an undergraduate student." 
+summary: Online conference organised by Transform Finance to discuss the latest knowledge and thought leadership on fraud prevention, detection and investigation. On 20th & 21st of October 2021.
+abstract: "," 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-03-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
+date: "2021-10-20T13:00:00Z"
+date_end: "2021-10-21T15:00:00Z"
 all_day: true
 
-# Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+
 
 authors:
 - admin
 
 tags:
-- Science
-- Mathematics
-- Sustainable Development
+- Fraud Detection
+- FinTech
+- Blockchain
+
 
 categories:
 - Conference
-
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**The Nation**]'
+  caption: 'Image Credit [**Conference Poster**]'
   focal_point: Right
 
 links:
@@ -69,4 +66,4 @@ url_video: ""
 # - example
 ---
 
-This was my first major international conference and I attended as an undergraduate student. It was held at Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+Online conference organised by Transform Finance to discuss the latest knowledge and thought leadership on fraud prevention, detection and investigation. On 20th & 21st of October 2021.
