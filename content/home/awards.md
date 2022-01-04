@@ -120,7 +120,7 @@ item:
   date_end: "2020-09-01"
   date_start: "2019-09-01"
   description: "Full Postgraduate Scholarship for Master of Science in Financial Technology (FinTech) sponsored by the Commonwealth Scholarship Commission (CSC) in partnership with the University of Stirling, Scotland, UK."
-  organization: African Union Commission
+  organization: Commonwealth Scholarship Commision and University of Stirling, UK.
   organization_url: 
   title: Commonwealth Shared Scholarship  
   url: 
@@ -128,7 +128,7 @@ item:
 - certificate_url: 
   date_end: "2025-09-01"
   date_start: "2021-09-01"
-  description: "Priviledged to have been awarded the competitive Science Foundation Ireland (SFI) full PhD scholarship to research in Machine Learning and Blockchain Technologt at the Centre for Research Training in Machine Learning (ML-Labs), University College Dublin, Ireland."
+  description: "Priviledged to have been awarded the competitive Science Foundation Ireland (SFI) full PhD scholarship to research in Machine Learning and Blockchain Technology at the Centre for Research Training in Machine Learning (ML-Labs), University College Dublin, Ireland."
   organization: SFI Centre for Research Training in Machine Learning (ML-Labs) 
   organization_url: 
   title: Full PhD Scholarship to Research in Machine Learning and Blockchain Technology  
