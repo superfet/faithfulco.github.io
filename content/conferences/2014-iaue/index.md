@@ -13,7 +13,7 @@ address:
   country: Nigeria
 
 summary: This international conference was focused on science as a tool for sustainable development. 
-abstract: This was my first major international conference and I attended as an undergraduate student. 
+abstract: "This was my first major international conference and I attended as an undergraduate student." 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
