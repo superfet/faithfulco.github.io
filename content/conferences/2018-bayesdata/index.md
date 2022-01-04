@@ -1,46 +1,41 @@
 ---
-title: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
+title: Bayesian Data Analysis: Theory and Practice by Prof. Dr. Emmanuel Lesaffre 
 
-event: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
-event_url: https://www.iauoe.edu.ng/Home/index
 
-location: Ignatius Ajuru University of Education (IAUE)
+event: Workshop on Bayesian Data Analytics. 
+event_url: https://www.jkuat.ac.ke/departments/statistics/
+
+location: Department of Statistics and Actuarial Sciences, Jomo Kenyatta University of Agriculture and Technology, Nairobi, Kenya. 
 address:
-  street: Rumuolumeni
-  city: Port Harcourt, Nigeria.
-  region: CA
-  postcode: 'P.M.B. 5047'
-  country: Nigeria
+  city: Nairobi
+  country: Kenya
 
-summary: This international conference was focused on science as a tool for sustainable development. 
-abstract: "This was my first major international conference and I attended as an undergraduate student." 
+summary: Workshop on Bayesian Data Analysis exploring both the theory and practice. Delivered by Prof. Dr. Emmanuel Lesaffre, held at the Department of Statistics and Actuarial Sciences, Jomo Kenyatta University of Agriculture and Technology, Nairobi, Kenya.  On 19-23 Nov. 2018.
+abstract: "," 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-03-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
+date: "2018-11-19T13:00:00Z"
+date_end: "2018-11-23T15:00:00Z"
 all_day: true
 
-# Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+
 
 authors:
 - admin
 
 tags:
-- Science
+- Financial Mathematics
 - Mathematics
-- Sustainable Development
 
 categories:
-- Conference
-
+- Workshop
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**The Nation**]'
+  caption: 
   focal_point: Right
 
 links:
@@ -69,4 +64,4 @@ url_video: ""
 # - example
 ---
 
-This was my first major international conference and I attended as an undergraduate student. It was held at Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+Workshop on Bayesian Data Analysis exploring both the theory and practice. Delivered by Prof. Dr. Emmanuel Lesaffre (Leuven Biostatistics and Statistical Bioinformatics Centre, Katholieke Universiteit, Belgium), held at the Department of Statistics and Actuarial Sciences, Jomo Kenyatta University of Agriculture and Technology, Nairobi, Kenya.  On 19-23 Nov. 2018.
