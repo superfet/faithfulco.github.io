@@ -12,7 +12,7 @@ address:
   postcode: 'P.M.B. 5047'
   country: Nigeria
 
-summary: This international conference was focused on science as a tool for sustainable development. 
+summary: This international conference was focused on science as a tool for sustainable development. On March 2014. 
 abstract: "This was my first major international conference and I attended as an undergraduate student." 
 
 # Talk start and end times.
