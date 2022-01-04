@@ -1,24 +1,21 @@
 ---
-title: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
+title: Research School on Combinatorial and Computational Algebraic Geometry
 
-event: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
-event_url: https://www.iauoe.edu.ng/Home/index
+event: International Centre for Pure and Applied Mathematics (CIMPA) at University of Ibadan, Nigeria.
+event_url: https://sci.ui.edu.ng/mathsstaff
 
-location: Ignatius Ajuru University of Education (IAUE)
+location: Department of Mathematics, University of Ibadan, Nigeria
 address:
-  street: Rumuolumeni
-  city: Port Harcourt, Nigeria.
-  region: CA
-  postcode: 'P.M.B. 5047'
+  city: Ibadan.
   country: Nigeria
 
-summary: This international conference was focused on science as a tool for sustainable development. 
-abstract: "This was my first major international conference and I attended as an undergraduate student." 
+summary: By International Centre for Pure and Applied Mathematics (CIMPA) at University of Ibadan, Nigeria on 11-24 June 2017.
+abstract: "," 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-03-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
+date: "2017-06-11T13:00:00Z"
+date_end: "2017-06-24T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -28,19 +25,17 @@ authors:
 - admin
 
 tags:
-- Science
 - Mathematics
-- Sustainable Development
 
 categories:
-- Conference
+- Workshop
 
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**The Nation**]'
+  caption: '[**With Prof Bernd Sturmfels & Dr Taylor Brysiewicz**]'
   focal_point: Right
 
 links:
@@ -69,4 +64,6 @@ url_video: ""
 # - example
 ---
 
-This was my first major international conference and I attended as an undergraduate student. It was held at Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+International Conference on Contemporary Mathematics and the Real World held at the Department of Mathematics, University of Ibadan, Nigeria on May 22-25, 2017. 
+
+
