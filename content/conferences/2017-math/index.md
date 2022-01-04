@@ -9,7 +9,7 @@ address:
   city: Ibadan.
   country: Nigeria
 
-summary: Special Lecture Series held at the Department of Mathematics, University of Ibadan, Nigeria. Delivered by Prof Abass Sagna, Associate Prof., Laboratory of Mathematics and Modeling of Evry, France.
+summary: International Conference on Contemporary Mathematics and the Real World held at the Department of Mathematics, University of Ibadan, Nigeria on May 22-25, 2017.
 abstract: "," 
 
 # Talk start and end times.
@@ -25,9 +25,7 @@ authors:
 - admin
 
 tags:
-- Science
 - Mathematics
-- Sustainable Development
 
 categories:
 - Conference
@@ -37,7 +35,7 @@ categories:
 featured: false
 
 image:
-  caption: 'Image credit: [**Certificate**]'
+  caption: 'Image credit: [**Conference Certificate**]'
   focal_point: Right
 
 links:
