@@ -10,7 +10,7 @@ address:
   city: Ibadan.
   country: Nigeria
 
-summary: Special Lecture Series held at the Department of Mathematics, University of Ibadan, Nigeria. Delivered by Prof Abass Sagna, Associate Prof., Laboratory of Mathematics and Modeling of Evry, France.
+summary: Special Lecture Series held at the Department of Mathematics, University of Ibadan, Nigeria. Delivered by Prof Abass Sagna, Associate Prof., Laboratory of Mathematics and Modeling of Evry, France. On April 2017.
 abstract: "," 
 
 # Talk start and end times.
