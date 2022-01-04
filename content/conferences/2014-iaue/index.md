@@ -1,24 +1,24 @@
 ---
-title: Application of Support Vector Machine for Sentiment Analysis of Nigerian Banks Financial Tweets
+title: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
 
-event: Deep Learning Indaba
-event_url: https://deeplearningindaba.com/2019/
+event: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
+event_url: https://www.iauoe.edu.ng/Home/index
 
-location: Kenyatta University, Nairobi, Kenya.
+location: Ignatius Ajuru University of Education (IAUE)
 address:
-  street: 
-  city: Nairobi
-  region: 
-  postcode: 'P.O. Box 43844-00100'
-  country: Kenya
+  street: Rumuolumeni
+  city: Port Harcourt, Nigeria.
+  region: CA
+  postcode: 'P.M.B. 5047'
+  country: Nigeria
 
-summary: A poster presentation that highlights the applicability of Support Vector Machine in sentiment analysis of Nigerian banks financial tweets.
-abstract: "The rise of social media paves way for unprecedented benefits or risks to several organisations depending on how they adapt to its changes. This rise comes with a great challenge of gaining insights from these big data for effective and efficient decision making that can improve quality, profitability, productivity, competitiveness and customer satisfaction. Sentiment analysis is the field that is concerned with the classification and analysis of user generated text under defined polarities. Despite the upsurge of research in sentiment analysis in recent years, there is a dearth in literature on sentiment analysis applied to banks social media data and mostly on African datasets. Against this background, this study applied machine learning technique (support vector machine) for sentiment analysis of Nigerian banks twitter data within a 2-year period, from 1st January 2017 to 31st December 2018. After crawling and preprocessing of the data, LibSVM algorithm in WEKA was used to build the sentiment classification model based on the training data. The performance of this model was evaluated on a pre-labelled test dataset generated from the five banks. The results show that the accuracy of the classifier was 71.8367%. The precision for both the positive and negative classes was above 0.7, the recall for the negative class was 0.696 and that of the positive class was 0.741 which shows the prediction did better than chance in addition to other measures. Applying the model in predicting the sentiments of the five Nigerian banks twitter data reveals that the number of positive tweets within this period was slightly greater than the number of negative tweets. The scatter plots for the sentiments series indicated that, majority of the data falls between 0 and 100 sentiments per day, with few outliers above this range."
+summary: This international conference was focused on science as a tool for sustainable development. 
+abstract: "This was my first major international conference and I attended as an undergraduate student." 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-08-25T13:00:00Z"
-date_end: "2019-08-31T15:00:00Z"
+date: "2014-03-01T13:00:00Z"
+# date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -28,19 +28,19 @@ authors:
 - admin
 
 tags:
-- Sentiment Analysis
-- Machine Learning
+- Science
+- Mathematics
+- Sustainable Development
 
 categories:
-- Poster 
-- Talks
-- Machine Learning
+- Conference
+
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 
+  caption: 'Image credit: [**The Nation**]'
   focal_point: Right
 
 links:
@@ -68,4 +68,12 @@ url_video: ""
 # projects:
 # - example
 ---
-faction. Sentiment analysis is the field that is concerned with the classification and analysis of user generated text under defined polarities. Despite the upsurge of research in sentiment analysis in recent years, there is a dearth in literature on sentiment analysis applied to banks social media data and mostly on African datasets. Against this background, this study applied machine learning technique (support vector machine) for sentiment analysis of Nigerian banks twitter data within a 2-year period, from 1st January 2017 to 31st December 2018. After crawling and preprocessing of the data, LibSVM algorithm in WEKA was used to build the sentiment classification model based on the training data. The performance of this model was evaluated on a pre-labelled test dataset generated from the five banks. The results show that the accuracy of the classifier was 71.8367%. The precision for both the positive and negative classes was above 0.7, the recall for the negative class was 0.696 and that of the positive class was 0.741 which shows the prediction did better than chance in addition to other measures. Applying the model in predicting the sentiments of the five Nigerian banks twitter data reveals that the number of positive tweets within this 
+
+This was my first major international conference and I attended as an undergraduate student.
+location: Ignatius Ajuru University of Education (IAUE)
+address:
+  street: Rumuolumeni
+  city: Port Harcourt, Nigeria.
+  region: CA
+  postcode: 'P.M.B. 5047'
+  country: Nigeria
