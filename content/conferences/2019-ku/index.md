@@ -1,46 +1,43 @@
 ---
-title: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
+title: The Third Kenyatta University International Mathematics Conference
 
-event: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
-event_url: https://www.iauoe.edu.ng/Home/index
 
-location: Ignatius Ajuru University of Education (IAUE)
+event: Kenyatta University International Mathematics Conference                             
+event_url: http://spas.ku.ac.ke/index.php/departments/mathematics-actuarial-science
+
+location: Department of Mathematics & Actuarial Science, Kenyatta University. 
 address:
-  street: Rumuolumeni
-  city: Port Harcourt, Nigeria.
-  region: CA
-  postcode: 'P.M.B. 5047'
-  country: Nigeria
+  city: Nairobi
+  country: Kenya
 
-summary: This international conference was focused on science as a tool for sustainable development. 
-abstract: "This was my first major international conference and I attended as an undergraduate student." 
+summary: International Mathematics Conference hosted by the Department of Mathematics & Actuarial Science, Kenyatta University. On 17-20 June 2019.
+abstract: "," 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2014-03-01T13:00:00Z"
-# date_end: "2030-06-01T15:00:00Z"
-all_day: true
+date: "2019-06-17T13:00:00Z"
+date_end: "2019-06-20T15:00:00Z"
+all_day: false
 
-# Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+
 
 authors:
 - admin
 
 tags:
-- Science
+- Financial Mathematics
 - Mathematics
-- Sustainable Development
+- Climate Change
+- Extreme Value Theory
 
 categories:
 - Conference
-
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**The Nation**]'
+  caption: '[**Conference Certificate**]'
   focal_point: Right
 
 links:
@@ -69,4 +66,4 @@ url_video: ""
 # - example
 ---
 
-This was my first major international conference and I attended as an undergraduate student. It was held at Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+Special Lecture Series held at the Department of Mathematics, University of Ibadan, Nigeria on  April 2017. Delivered by Prof Abass Sagna, Associate Prof., Laboratory of Mathematics and Modeling of Evry, France. 
