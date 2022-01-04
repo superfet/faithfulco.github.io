@@ -41,17 +41,9 @@ item:
   description: "Represented the Faculty of Natural and Applied Sciences as the Chief Speaker, in the first Inter-Faculty Debate and was awarded the co-best speaker of the tournament. "
   organization: Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
   organization_url: 
-  title: Co-best Speaker and winner in the First Inter-faculty Debate of IAUE
+  title: Co-best Speaker and Winner in the First Inter-faculty Debate of IAUE
   url: 
   
-- certificate_url: 
-  date_end: "2014-09-01"
-  date_start: "2010-09-01"
-  description: "Throughout my unergraduate studies from 2010-2014, I was consistently in the Dean's Rolls of Honour for outstanding academic performance and character."
-  organization: Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
-  organization_url: 
-  title: Consistent Mention and Recognition, Dean's Rolls of Honour IAUE
-  url: 
   
 - certificate_url: 
   date_end: 
