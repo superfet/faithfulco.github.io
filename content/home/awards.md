@@ -26,12 +26,12 @@ item:
 
 
 - certificate_url: 
-  date_end: "2014-09"
-  date_start: "2010-09"
+  date_end: "2014-09-01"
+  date_start: "2010-09-01"
   description: "Throughout my studies from 2010-2014, for outstanding academic performance and character."
   organization: Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
   organization_url: 
-  title: Consistent Mention/Recognition, Dean's Rolls of Honour IAUE
+  title: Consistent Mention and Recognition, Dean's Rolls of Honour IAUE
   url: 
   
   
