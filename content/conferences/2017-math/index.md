@@ -1,19 +1,16 @@
 ---
-title: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
+title: International Conference on Contemporary Mathematics and the Real World
 
-event: 1st International Conference of Faculty of Natural and Applied Sciences, IAUE
-event_url: https://www.iauoe.edu.ng/Home/index
+event: International Conference on Contemporary Mathematics and the Real World
+event_url: https://sci.ui.edu.ng/mathsstaff
 
-location: Ignatius Ajuru University of Education (IAUE)
+location: Department of Mathematics, University of Ibadan, Nigeria
 address:
-  street: Rumuolumeni
-  city: Port Harcourt, Nigeria.
-  region: CA
-  postcode: 'P.M.B. 5047'
+  city: Ibadan.
   country: Nigeria
 
-summary: This international conference was focused on science as a tool for sustainable development. 
-abstract: "This was my first major international conference and I attended as an undergraduate student." 
+summary: Special Lecture Series held at the Department of Mathematics, University of Ibadan, Nigeria. Delivered by Prof Abass Sagna, Associate Prof., Laboratory of Mathematics and Modeling of Evry, France.
+abstract: "," 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,7 +37,7 @@ categories:
 featured: false
 
 image:
-  caption: 'Image credit: [**The Nation**]'
+  caption: 'Image credit: [**Certificate**]'
   focal_point: Right
 
 links:
@@ -69,4 +66,6 @@ url_video: ""
 # - example
 ---
 
-This was my first major international conference and I attended as an undergraduate student. It was held at Ignatius Ajuru University of Education (IAUE), Port Harcourt, Nigeria.
+International Conference on Contemporary Mathematics and the Real World held at the Department of Mathematics, University of Ibadan, Nigeria on May 22-25, 2017. 
+
+
