@@ -1,8 +1,921 @@
 ---
-# Homepage
-type: widget_page
 
-# Homepage is headless, other widget pages are not.
-headless: true
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Amandeep Singh CV Webpage</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="CV webpage GitHub Amandeep Singh Astrum Imber">
+  <meta content="" name="A static webpage that descripts my achievements, certifications & education.">
+
+  <!-- Favicons -->
+  <link href="img/favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Theme Name: DevFolio
+    Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body id="page-top">
+
+  <!--/ Nav Star /-->
+  <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll" href="#page-top">Amandeep Singh</a>
+      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
+        aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll active" href="#home">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#service">Expertise</a>
+          </li><!-- 
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#work">Education</a>
+          </li> -->
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#work">Work</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#blog">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="#contact">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!--/ Nav End /-->
+
+  <!--/ Intro Skew Star /-->
+  <div id="home" class="intro route bg-image" style="background-image: url(img/img_bg_2.jpg)">
+    <div class="overlay-itro"></div>
+    <div class="intro-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <!--<p class="display-6 color-d">Hello, world!</p>-->
+          <h1 class="intro-title mb-4">I am Amandeep Singh</h1>
+          <p class="intro-subtitle"><span class="text-slider-items">Associate Faculty at NCI,Data Analytics,Machine Learning,Business Intelligence,Astrophysics,Cosmology</span><strong class="text-slider"></strong></p>
+          <!-- <p><a href="AMANDEEP_SINGH_CV.pdf" target="_blank" download class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p> -->
+          <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="AMANDEEP_SINGH_CV.pdf" target="_blank" role="button">DOWNLOAD CV</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--/ Intro Skew End /-->
+
+  <section id="about" class="about-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="box-shadow-full">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="row">
+                  <div class="col-sm-6 col-md-5">
+                    <div class="about-img">
+                      <img src="img/about_cropped.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                    </div>
+                  </div>
+                  <div class="col-sm-6 col-md-7">
+                    <div class="about-info">
+                      <p><span class="title-s">Name: </span> <span>Amandeep Singh</span></p>
+                      <p><span class="title-s">Profile: </span> <span>Astrophysicist/Data Analyst</span></p>
+                      <p><span class="title-s">Email: </span> <span>sardarji4169@gmail.com</span></p>
+                      <p><span class="title-s">Phone: </span> <span>+353 899486340</span></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="skill-mf">
+                  <p class="title-s">Skill</p>
+                  <span>Python</span> <span class="pull-right">85%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>C++</span> <span class="pull-right">75%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>SQL</span> <span class="pull-right">80%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>LaTeX</span> <span class="pull-right">90%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>Power BI/Tableau</span> <span class="pull-right">70%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>IBM SPSS</span> <span class="pull-right">80%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>Microsoft Dynamics 365</span> <span class="pull-right">70%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>Microsoft Excel</span> <span class="pull-right">90%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>R</span> <span class="pull-right">60%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>HTML</span> <span class="pull-right">50%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>CSS</span> <span class="pull-right">50%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="about-me pt-4 pt-md-0">
+                  <div class="title-box-2">
+                    <h5 class="title-left">
+                      About me
+                    </h5>
+                  </div>
+                  <p class="lead">
+                    Originally from India, I have successfully completed my second Masters, MSc in Data Analytics (Jan 2020 - Feb 2021), from the prestigious National College of Ireland (NCI) with an aggregate 77.1% (1:1 grade, First Class Honours). I am ambitiously looking for institutions/organisations that could help me widen my horizons by gaining real-world experience and further aid me in converting my research into a PhD in Astrophysics or Data Science.
+                  </p>
+                  <p class="lead">
+                    I am fluent in numerical analysis and programming in Python, C++ & R. I can effectively work in IBM SPSS, SQL, Tableau, PowerBI, Git, Microsoft Dynamics 365, JupyterLab/Notebooks, Google Colab, LATEX. I am trying to improve HTML/CSS skills by designing webpages – designed own CV webpage and Blog.
+                  </p>
+                  <p class="lead">
+                    I have successfully completed my Bachelors (Honours) in Physics with 77.64% from University of Delhi (2014-2017), and my Masters in Physics (Astrophysics & Cosmology) with 4.5/6 grade from University of Zurich (2017-2019).
+                  </p>
+                  <p class="lead">
+                    I am currently employed as a part-time Associate Faculty at NCI, and looking for full-time opportunities in Data Science. I will be eligible for a 2-year IRISH Full-time (40hrs/week) Work Permit (STAMP-1G permit) in February/March-2021. 
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--/ Section Expertise Starts /-->
+  <section id="service" class="services-mf route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <h3 class="title-a">
+              Expertise
+            </h3>
+            <p class="subtitle-a">
+              Here are some of my expertise
+            </p>
+            <div class="line-mf"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-ios-calculator"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Mathematics</h2>
+              <p class="s-description text-center">
+                Comfortable with long & complex mathematical calculations to analyze data and infer conclusions.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-code-working"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Coding</h2>
+              <p class="s-description text-center">
+                Proficient in C++, Python and MySQL, while also learning R, HTML, CSS.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-ios-cog"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Environments</h2>
+              <p class="s-description text-center">
+                Prefer working in Jupyter Lab/Notebooks, but am also comfortable in Spyder, PyCharm, RStudio & Atom.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-stats-bars"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Data Analytics</h2>
+              <p class="s-description text-center">
+                Currently training myself to work on Big-data and come up with projects that create a real change in the world.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-monitor"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Software</h2>
+              <p class="s-description text-center">
+               Effectively work on industry-standard softwares like IBM SPSS, PowerBI, Tableau, Microsoft Dynamics 365, Hadoop & MongoDB.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-ios-book"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Research</h2>
+              <p class="s-description text-center">
+                Previous research work helped me become open-minded with understanding the code regardless of the language.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--/ Section Expertise Ends /-->
+
+  <div class="section-counter paralax-mf bg-image" style="background-image: url(img/cover_bg_1.jpg)">
+    <div class="overlay-mf"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3 col-lg-3">
+          <div class="counter-box">
+            <div class="counter-ico">
+              <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
+            </div>
+            <div class="counter-num">
+              <p class="counter">15</p>
+              <span class="counter-text">PROJECTS COMPLETED</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-lg-3">
+          <div class="counter-box pt-4 pt-md-0">
+            <div class="counter-ico">
+              <span class="ico-circle"><i class="ion-code-working"></i></span>
+            </div>
+            <div class="counter-num">
+              <p class="counter">124794</p>
+              <span class="counter-text">LINES OF CODE</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-lg-3">
+          <div class="counter-box pt-4 pt-md-0">
+            <div class="counter-ico">
+              <span class="ico-circle"><i class="ion-ios-location"></i></span>
+            </div>
+            <div class="counter-num">
+              <p class="counter">5</p>
+              <span class="counter-text">COUNTRIES</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-lg-3">
+          <div class="counter-box pt-4 pt-md-0">
+            <div class="counter-ico">
+              <span class="ico-circle"><i class="ion-coffee"></i></span>
+            </div>
+            <div class="counter-num">
+              <p class="counter">306</p>
+              <span class="counter-text">CUPS OF TEA</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--/ Section Project Portfolio Star /-->
+  <section id="work" class="portfolio-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <h3 class="title-a">
+              Project Portfolio
+            </h3>
+            <p class="subtitle-a">
+              A growing list of projects that I have completed
+            </p>
+            <div class="line-mf"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="https://github.com/singhad" target="_blank">
+              <div class="work-img">
+                <img href="https://github.com/singhad" target="_blank" src="img/dmml2.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Comparing Transfer Learning Techniques for Detection of Traffic Signs using Image Recognition</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Deep Learning</span> / <span class="w-date">10 Aug 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="https://github.com/singhad" target="_blank">
+              <div class="work-img">
+                <img href="https://github.com/singhad" target="_blank" src="img/DAPA.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Predicting Customer Review Scores using Ancillary Metadata from Customer Details</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Predictive Analytics</span> / <span class="w-date">5 Aug 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="https://github.com/singhad" target="_blank">
+              <div class="work-img">
+                <img href="https://github.com/singhad" target="_blank" src="img/DAP.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Visualising the COVID-19 Pandemic using Reddit posts, Twitter Hashtags and Stock Market fluctuations</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Database & Analysis</span> / <span class="w-date">05 May 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="https://github.com/singhad" target="_blank">
+              <div class="work-img">
+                <img href="https://github.com/singhad" target="_blank" src="img/statsca2.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Statistical Analysis using Binary-Logistic Regression, one-way ANOVA, t-Test and chi-SquareTest</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Statistics</span> / <span class="w-date">01 May 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="https://github.com/singhad" target="_blank">
+              <div class="work-img">
+                <img href="https://github.com/singhad" target="_blank" src="img/statsca1.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Life Expectancy Prediction using Multiple Linear Regression and Consumer Price Index Forecasting Model</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Statistics</span> / <span class="w-date">05 Apr 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="https://github.com/singhad" target="_blank">
+              <div class="work-img">
+                <img href="https://github.com/singhad" target="_blank" src="img/BIBA.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Managing and Visualising the Workings of an Organisation using Microsoft Dynamics 365 and Power BI Dashboards</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Business Intelligence</span> / <span class="w-date">20 Apr 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="https://github.com/singhad" target="_blank">
+              <div class="work-img">
+                <img href="https://github.com/singhad" target="_blank" src="img/dmml1.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Rainfall Prediction in Australia, Exoplanet Classification, & Indian Air Quality Index Prediction using Data Mining & Machine Learning Models</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Machine Learning</span> / <span class="w-date">25 Apr 2020</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="https://github.com/singhad" target="_blank">
+              <div class="work-img">
+                <img href="https://github.com/singhad" target="_blank" src="img/subgrid.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">A Sub-Grid Model for Molecular Gas in a Cosmological Galaxy Formation Simulation</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Astrophysics</span> / <span class="w-date">19 Jul 2019</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="https://github.com/singhad"  target="_blank">
+              <div class="work-img">
+                <img href="https://github.com/singhad"  target="_blank" src="img/APPresearchproject.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Monitoring the properties of the Atmosphere relevant for the observation of Cosmic Gamma Rays with Atmospheric Cherenkov Telescopes</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Astro Particle Physics</span> / <span class="w-date">19 Mar 2018</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <span class="ion-ios-plus-outline"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+  <!--/ Section Project Portfolio End /-->
+
+  <!--/ Section Testimonials Star /-->
+  <!-- <div class="testimonials paralax-mf bg-image" style="background-image: url(img/overlay-bg.jpg)">
+    <div class="overlay-mf"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div id="testimonial-mf" class="owl-carousel owl-theme">
+            <div class="testimonial-box">
+              <div class="author-test">
+                <img src="img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author">Xavi Alonso</span>
+              </div>
+              <div class="content-test">
+                <p class="description lead">
+                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
+                  consectetur adipiscing elit.
+                </p>
+                <span class="comit"><i class="fa fa-quote-right"></i></span>
+              </div>
+            </div>
+            <div class="testimonial-box">
+              <div class="author-test">
+                <img src="img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
+                <span class="author">Marta Socrate</span>
+              </div>
+              <div class="content-test">
+                <p class="description lead">
+                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
+                  consectetur adipiscing elit.
+                </p>
+                <span class="comit"><i class="fa fa-quote-right"></i></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+
+  <!--/ Section Personal Blog Starts /-->
+  <section id="blog" class="blog-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <h3 class="title-a">
+              Personal Blog
+            </h3>
+            <p class="subtitle-a">
+              ASTRUM IMBER - The Star Shower : A repository for the knowledge I acquired as a Physics and Data Analytics student
+            </p>
+            <div class="line-mf"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="https://astrum-imber.blogspot.com/2020/07/life-expectancy-prediction-using.html" target="_blank"><img src="img/article_stats.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Statistics</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="https://astrum-imber.blogspot.com/2020/07/life-expectancy-prediction-using.html" target="_blank">Statistics for Data Analytics</a></h3>
+              <p class="card-description">
+                "The emphasis is on understanding the appropriate statistical techniques to use and on the interpretation of the results from the application of those techniques. Whether the results are obtained using SPSS, R, SAS, Stata, Minitab, Excel or some other package should not be critical to the understanding required" - Prof. (Dr.) Tony Delaney, NCI, Dublin.
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/about_cropped.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Amandeep Singh</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 15 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="https://astrum-imber.blogspot.com/2020/06/artificial-intelligence-why-it-would-be.html" target="_blank"><img src="img/article_ai.jpg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Philosophy</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="https://astrum-imber.blogspot.com/2020/06/artificial-intelligence-why-it-would-be.html" target="_blank">Artificial Intelligence — Why it would be more good than bad</a></h3>
+              <p class="card-description">
+                This article is more philosophical than physics or astrobiology. But sometimes it is necessary to have discussions that explore the boundaries and ethics of the upcoming fields.
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/about_cropped.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Amandeep Singh</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 6 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="https://astrum-imber.blogspot.com/2020/05/can-venus-atmosphere-support-life.html" target="_blank"><img src="img/article_venus.jpg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Astrobiology</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="https://astrum-imber.blogspot.com/2020/05/can-venus-atmosphere-support-life.html" target="_blank">Can Venus’ Atmosphere Support Life?</a></h3>
+              <p class="card-description">
+                Venus has an atmosphere that crushes everything at its surface. Due to the habitability of its clouds, its atmosphere is still the prime candidate to sustain life.
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/about_cropped.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Amandeep Singh</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 6 min
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--/ Section Personal Blog End /-->
+
+  <!--/ Section Medium Starts /-->
+  <section id="blog" class="blog-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <h3 class="title-a">
+              Medium
+            </h3>
+            <p class="subtitle-a">
+              
+            </p>
+            <div class="line-mf"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="https://medium.com/swlh/pandas-cheatsheet-d4aeb3d8e5e3" target='_blank'><img src="img/article_pandas_medium.jpeg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Coding</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="https://medium.com/swlh/pandas-cheatsheet-d4aeb3d8e5e3" target='_blank'>Pandas Cheatsheet</a></h3>
+              <p class="card-description">
+                Usually I use Pandas for EDA of datasets for a Data Analytics project. To move things quicker, I made a cheatsheet of the most frequently used commands.
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/about_cropped.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Amandeep Singh</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 11 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="https://medium.com/analytics-vidhya/life-expectancy-prediction-using-multiple-linear-regression-and-consumer-price-index-forecasting-174d1498257d" target='_blank'><img src="img/article_stats_medium.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Data Analytics</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="https://medium.com/analytics-vidhya/life-expectancy-prediction-using-multiple-linear-regression-and-consumer-price-index-forecasting-174d1498257d" target='_blank'>Life Expectancy Prediction using MLR</a></h3>
+              <p class="card-description">
+                This article presents a model, based on the statistical technique of multiple-linear regression, that analyses different factors that may or may not affect the accurate prediction of the life expectancy of a country in a given year. 
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/about_cropped.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Amandeep Singh</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 16 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="https://medium.com/@ads4169/artificial-intelligence-why-it-would-be-more-good-than-bad-b14eda6bfd73" target='_blank'><img src="img/article_ai.jpg" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Philosophy</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="https://medium.com/@ads4169/artificial-intelligence-why-it-would-be-more-good-than-bad-b14eda6bfd73" target='_blank'>Artificial Intelligence — Why it would be more good than bad</a></h3>
+              <p class="card-description">
+                This article is more philosophical than physics or astrobiology. But sometimes it is necessary to have discussions that explore the boundaries and ethics of the upcoming fields.
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/about_cropped.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Amandeep Singh</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 6 min
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--/ Section Medium End /-->
+
+  <!--/ Section Contact-Footer Star /-->
+  <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/rsz_bg1.jpg)">
+    <div class="overlay-mf"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="contact-mf">
+            <div id="contact" class="box-shadow-full">
+              <div class="row">
+                
+                <div class="col-md-12">
+                  <div class="title-box-2 pt-4 pt-md-0">
+                    <h5 class="title-left">
+                      Get in Touch
+                    </h5>
+                  </div>
+                  <div class="more-info">
+                    <p class="lead">
+                      My contact details and socials are listed below:
+                    </p>
+                    <ul class="list-ico">
+                      <li><span class="ion-ios-location"></span> Dublin, Ireland</li>
+<!--                       <li><span class="ion-ios-telephone"></span> +353 899486340</li> -->
+<!--                       <li><span class="ion-email"></span> sardarji4169@gmail.com</li> -->
+                    </ul>
+                  </div>
+                  <div class="socials">
+                    <ul>
+                      <li><a href="http://www.linkedin.com/in/amandeep-singh-526683188" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
+<!--                       <li><a href="https://github.com/singhad" target="_blank"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li> -->
+<!--                       <li><a href="mailto:sardarji4169@gmail.com" target="_blank"><span class="ico-circle"><i class="ion-at"></i></span></a></li> -->
+<!--                       <li><a href="http://www.instagram.com/a_man_deep07" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li> -->
+<!--                       <li><a href="https://twitter.com/a_man_deep07" target="_blank"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li> -->
+                      <li><a href="https://medium.com/@ads4169" target="_blank"><span class="ico-circle"><i class="ion-quote"></i></span></a></li>
+                      <li><a href="https://astrum-imber.blogspot.com/" target="_blank"><span class="ico-circle"><i class="ion-android-bookmark"></i></span></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--/ Section Contact-footer End /-->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <div id="preloader"></div>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/popper/popper.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/counterup/jquery.waypoints.min.js"></script>
+  <script src="lib/counterup/jquery.counterup.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/typed/typed.min.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>
 
