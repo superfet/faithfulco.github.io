@@ -32,6 +32,17 @@ experience:
     description: |2-
         Researching in the convergence of machine learning and blockchain technology in finance. 
 
+  - title: Artificial Intelligence Researcher
+    company: AWARE-AI Lab, Rochester Institute of Technology (RIT), USA.
+    company_url: 'https://www.rit.edu/nrtai/'
+    company_logo: ML-Labs-logo
+    location: Rochester, USA.
+    date_start: '2023-09-01'
+    date_end: '2023-11-30'
+    description: |2-
+        Researching in the convergence of machine learning and blockchain technology in finance. 
+
+
   - title: Commonwealth Shared Scholar
     company: Commonwealth Scholarship Commission and the University of Stirling, UK.
     company_url: 'https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/'
